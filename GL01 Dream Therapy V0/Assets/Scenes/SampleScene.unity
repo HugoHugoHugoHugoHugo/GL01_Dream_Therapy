@@ -312,6 +312,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: PlayerWithGun
       objectReference: {fileID: 0}
+    - target: {fileID: 9023947931159677804, guid: 0aa9dd493f20c9642b37551e3e3f97f4, type: 3}
+      propertyPath: _data._json
+      value: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 9023947931159677804, guid: 0aa9dd493f20c9642b37551e3e3f97f4, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9023947931159677804, guid: 0aa9dd493f20c9642b37551e3e3f97f4, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 8bcf6806526160b489c5d17edeb58411, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0aa9dd493f20c9642b37551e3e3f97f4, type: 3}
 --- !u!1 &1290514689
