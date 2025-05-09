@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: c8904decf19d7b94190d1720660c1085
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GroundTiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2737d7afa17e01442931e222eb821299
+      internalID: -178149212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2acc2f06321ea4d98e916b253535de
+      internalID: -120416583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d9e3c514ecb1747bc3e3ffd54c664b
+      internalID: -92865997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec82de99a425ed4296b998bbd87f137
+      internalID: 397230574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b4d4e21b089f149bc366472cc2fc23
+      internalID: 2139943255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7aabc7708ab3834cbbbdda40a21854a
+      internalID: 43536453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aa98b8bdd543b48935655b68577773
+      internalID: -1734313128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ce6849dff861c489366b70ec77b404
+      internalID: 984996657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee754dda7626b7245aa1997e0dc25d77
+      internalID: 522109544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc92c59a47cdd9f488e2eef9a0f7527b
+      internalID: 2127474615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02a202fccf9b834a954cb79df8623ec
+      internalID: -1508914686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8a71133b896d14b8e79fd4d3157ca4
+      internalID: 61474438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f30118b7b13d94458027828f405c1bc
+      internalID: -349406111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbab0442bc6c2dc4e913f62c1741801e
+      internalID: 1906492976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e49b537e3ebd74089d1969a1b9e032
+      internalID: -787827998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d256cc742a6754683cd777a3929039
+      internalID: 701021531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdafa5f11668c74fa4aab9dff29ae5e
+      internalID: 497255157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5a30fa6945b4e4e881a6bec40d9cca
+      internalID: 1508945525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176aeb708eb9d7d49b65d0c6321e1d3f
+      internalID: 1888271595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763b176b204cbc5448ce2029ce4b9691
+      internalID: -1656815999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4b1ece81e30c84ea9ce3e461474880
+      internalID: -1864398996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2771a255b25505741975beb263dcd319
+      internalID: -1047786374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c803b6fcf749e84396e84a01110e9f0
+      internalID: 2011779220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundTiles_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea56e90bc8c4a941ac1ef3d20ec3f8d
+      internalID: -2089299839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GroundTiles_0: -178149212
+      GroundTiles_1: -120416583
+      GroundTiles_10: -1784379805
+      GroundTiles_100: -1239165503
+      GroundTiles_101: 2117112354
+      GroundTiles_102: -460721269
+      GroundTiles_103: 299696346
+      GroundTiles_104: 1177343500
+      GroundTiles_105: 552985041
+      GroundTiles_106: -252430044
+      GroundTiles_107: 2067852457
+      GroundTiles_108: 195844191
+      GroundTiles_109: -127117962
+      GroundTiles_11: -2082039213
+      GroundTiles_110: -2116605781
+      GroundTiles_111: 306068167
+      GroundTiles_112: 885065979
+      GroundTiles_113: 78411844
+      GroundTiles_114: 141273592
+      GroundTiles_115: -2100823898
+      GroundTiles_116: -40668557
+      GroundTiles_117: -987546400
+      GroundTiles_118: -1781672895
+      GroundTiles_119: 497904842
+      GroundTiles_12: -1696417351
+      GroundTiles_120: 1786593427
+      GroundTiles_121: -850349361
+      GroundTiles_122: 1606768228
+      GroundTiles_123: 2086531592
+      GroundTiles_124: 1348906656
+      GroundTiles_125: -2107356622
+      GroundTiles_126: 309093344
+      GroundTiles_127: -724228982
+      GroundTiles_128: 298838849
+      GroundTiles_129: 2042375012
+      GroundTiles_13: -1972423265
+      GroundTiles_130: -881952268
+      GroundTiles_131: 1671516636
+      GroundTiles_132: 1162004803
+      GroundTiles_133: -1401622609
+      GroundTiles_134: 1072835046
+      GroundTiles_135: -923851739
+      GroundTiles_136: -437314511
+      GroundTiles_137: -402724915
+      GroundTiles_138: 1938024578
+      GroundTiles_139: -208273469
+      GroundTiles_14: 73213889
+      GroundTiles_140: 1213182658
+      GroundTiles_141: 1953352945
+      GroundTiles_142: -1095430570
+      GroundTiles_143: 2107887526
+      GroundTiles_144: 1001891666
+      GroundTiles_145: 299977128
+      GroundTiles_146: 126770330
+      GroundTiles_147: 1405065640
+      GroundTiles_148: -1151963464
+      GroundTiles_149: 1845839058
+      GroundTiles_15: 1742486280
+      GroundTiles_150: 1119933233
+      GroundTiles_151: 982094503
+      GroundTiles_152: 800025436
+      GroundTiles_153: -1777789872
+      GroundTiles_154: 1565583427
+      GroundTiles_155: 1130734469
+      GroundTiles_156: 203023163
+      GroundTiles_157: 2052755298
+      GroundTiles_158: -137827350
+      GroundTiles_159: 1402629553
+      GroundTiles_16: 522109544
+      GroundTiles_160: 1985255530
+      GroundTiles_161: -1579394753
+      GroundTiles_162: 1185683223
+      GroundTiles_163: 1616778818
+      GroundTiles_164: 1327499058
+      GroundTiles_165: -1573707086
+      GroundTiles_166: 1577781678
+      GroundTiles_167: 1225574928
+      GroundTiles_168: 1413748826
+      GroundTiles_169: -1507383200
+      GroundTiles_17: 2127474615
+      GroundTiles_170: -946758062
+      GroundTiles_171: -1831904476
+      GroundTiles_172: 1516568340
+      GroundTiles_173: -1358331037
+      GroundTiles_174: -1923488039
+      GroundTiles_175: -947796820
+      GroundTiles_176: -1519886571
+      GroundTiles_177: -690507448
+      GroundTiles_178: 1695290542
+      GroundTiles_179: -1562925919
+      GroundTiles_18: -91296285
+      GroundTiles_180: 343342052
+      GroundTiles_181: 542403835
+      GroundTiles_182: 927817297
+      GroundTiles_183: -1667829225
+      GroundTiles_184: -783872393
+      GroundTiles_185: 1504516498
+      GroundTiles_186: -184063519
+      GroundTiles_187: -853740059
+      GroundTiles_188: -1681726494
+      GroundTiles_189: 1332545136
+      GroundTiles_19: -787005187
+      GroundTiles_190: -966042199
+      GroundTiles_191: 1730549925
+      GroundTiles_2: 1036557710
+      GroundTiles_20: -1508914686
+      GroundTiles_21: 61474438
+      GroundTiles_22: -349406111
+      GroundTiles_23: 1906492976
+      GroundTiles_24: -787827998
+      GroundTiles_25: 701021531
+      GroundTiles_26: -2085495450
+      GroundTiles_27: 749548068
+      GroundTiles_28: -1260470827
+      GroundTiles_29: 464289174
+      GroundTiles_3: 894110030
+      GroundTiles_30: -1260247938
+      GroundTiles_31: -1375753219
+      GroundTiles_32: 497255157
+      GroundTiles_33: 1508945525
+      GroundTiles_34: 2028570613
+      GroundTiles_35: -2075211788
+      GroundTiles_36: 1888271595
+      GroundTiles_37: -1656815999
+      GroundTiles_38: -1864398996
+      GroundTiles_39: -1047786374
+      GroundTiles_4: -92865997
+      GroundTiles_40: 2011779220
+      GroundTiles_41: -2089299839
+      GroundTiles_42: -1770857732
+      GroundTiles_43: -1590253508
+      GroundTiles_44: 1399710324
+      GroundTiles_45: -1291154936
+      GroundTiles_46: 144793298
+      GroundTiles_47: -1138158075
+      GroundTiles_48: -246595506
+      GroundTiles_49: -221512821
+      GroundTiles_5: 397230574
+      GroundTiles_50: -1733847122
+      GroundTiles_51: 306952833
+      GroundTiles_52: 667286095
+      GroundTiles_53: 1142296030
+      GroundTiles_54: 1772746806
+      GroundTiles_55: -503424504
+      GroundTiles_56: -1487360729
+      GroundTiles_57: -2039283878
+      GroundTiles_58: -1820792716
+      GroundTiles_59: -275201521
+      GroundTiles_6: 2139943255
+      GroundTiles_60: 1491605502
+      GroundTiles_61: -796938893
+      GroundTiles_62: -240904069
+      GroundTiles_63: 1726431316
+      GroundTiles_64: -1397839400
+      GroundTiles_65: 1647909245
+      GroundTiles_66: -1446558872
+      GroundTiles_67: 1156362360
+      GroundTiles_68: 369268088
+      GroundTiles_69: -1476577873
+      GroundTiles_7: 43536453
+      GroundTiles_70: -886762806
+      GroundTiles_71: -1212619425
+      GroundTiles_72: -176960079
+      GroundTiles_73: -1476359334
+      GroundTiles_74: -1398926293
+      GroundTiles_75: 1266951105
+      GroundTiles_76: 669792672
+      GroundTiles_77: 1405925160
+      GroundTiles_78: -648450796
+      GroundTiles_79: 1202450619
+      GroundTiles_8: -1734313128
+      GroundTiles_80: -99697130
+      GroundTiles_81: -1164581273
+      GroundTiles_82: 1259079594
+      GroundTiles_83: -469272288
+      GroundTiles_84: -376410692
+      GroundTiles_85: -2088393671
+      GroundTiles_86: 657952672
+      GroundTiles_87: -991629742
+      GroundTiles_88: -1005799657
+      GroundTiles_89: -231210956
+      GroundTiles_9: 984996657
+      GroundTiles_90: -1108043545
+      GroundTiles_91: -541494504
+      GroundTiles_92: -1398712940
+      GroundTiles_93: 154158342
+      GroundTiles_94: 373659075
+      GroundTiles_95: 627660885
+      GroundTiles_96: 1980167059
+      GroundTiles_97: -1897247225
+      GroundTiles_98: 277039148
+      GroundTiles_99: -185756437
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
