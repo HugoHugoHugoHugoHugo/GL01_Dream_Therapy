@@ -13,10 +13,11 @@ GameObject:
   - component: {fileID: 7724939640881302796}
   - component: {fileID: 263487340882831100}
   - component: {fileID: 5109006826855546671}
-  - component: {fileID: -4435398725614603286}
-  - component: {fileID: 8516723195642723711}
   - component: {fileID: 5073348458736041658}
-  - component: {fileID: 4108471690676408880}
+  - component: {fileID: 1513068541531036443}
+  - component: {fileID: 8635582249088268608}
+  - component: {fileID: -4482319489502776648}
+  - component: {fileID: 5413989930031785330}
   m_Layer: 7
   m_Name: Skeleton
   m_TagString: Enemy
@@ -32,7 +33,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2628160552106998400}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.1, y: 0.03, z: 0}
+  m_LocalPosition: {x: -1.139, y: 0.118, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -149,37 +150,6 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Health","value":{"$content":3,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
---- !u!114 &-4435398725614603286
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2628160552106998400}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-    _objectReferences:
-    - {fileID: 11400000, guid: 33587a16a9c3507489ae5a5c0b192a2c, type: 2}
---- !u!114 &8516723195642723711
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2628160552106998400}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: efe58df89b5b74a97a123b5ed2b70422, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"nest":{"source":"Macro","macro":null,"embed":null}}'
-    _objectReferences: []
 --- !u!114 &5073348458736041658
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -196,8 +166,63 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: bc712c7f4f748a64eb1141178f23138a, type: 2}
---- !u!60 &4108471690676408880
-PolygonCollider2D:
+--- !u!114 &1513068541531036443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2628160552106998400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"agent","value":null,"typeHandle":{"Identification":"UnityEngine.AI.NavMeshAgent,
+      UnityEngine.AIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"target","value":null,"typeHandle":{"Identification":"UnityEngine.Transform,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!114 &8635582249088268608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2628160552106998400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 879c8c0e5654a4541b6405c65afb751f, type: 2}
+--- !u!195 &-4482319489502776648
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2628160552106998400}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.5
+  m_Speed: 2
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 0.85
+  m_BaseOffset: 0.45
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
+--- !u!61 &5413989930031785330
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -209,38 +234,16 @@ PolygonCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.03, y: -0.03}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.9, y: 2}
+    oldSize: {x: 1.1875, y: 1.25}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.048097134, y: 0.60378087}
-      - {x: 0.047917604, y: 0.5036374}
-      - {x: -0.3434543, y: 0.5047673}
-      - {x: -0.3441385, y: 0.4043213}
-      - {x: -0.44558084, y: 0.40373898}
-      - {x: -0.44827533, y: -0.19964558}
-      - {x: -0.5464685, y: -0.19871278}
-      - {x: -0.5518156, y: -0.69799876}
-      - {x: -0.2526846, y: -0.69722754}
-      - {x: -0.24618804, y: -0.39599586}
-      - {x: -0.05252683, y: -0.3950652}
-      - {x: -0.050117373, y: -0.29930982}
-      - {x: 0.44753718, y: -0.30008298}
-      - {x: 0.44531894, y: -0.19962716}
-      - {x: 0.5461365, y: -0.19679332}
-      - {x: 0.54502696, y: -0.10419281}
-      - {x: 0.653875, y: -0.10172688}
-      - {x: 0.65574867, y: 0.007877454}
-      - {x: 0.45487124, y: 0.0074581355}
-      - {x: 0.4513523, y: 0.47388956}
-      - {x: 0.4506396, y: 0.4953591}
-      - {x: 0.34933078, y: 0.49656162}
-      - {x: 0.3473151, y: 0.6028358}
+  serializedVersion: 2
+  m_Size: {x: 0.76, y: 0.82}
+  m_EdgeRadius: 0
