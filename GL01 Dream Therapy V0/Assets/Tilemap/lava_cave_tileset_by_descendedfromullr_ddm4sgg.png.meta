@@ -1,0 +1,5283 @@
+fileFormatVersion: 2
+guid: 67ec30e1ce56fa04992e875b4799db99
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8aefacbc7a07a4eb266e6116d9c714
+      internalID: -594062602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de04aa7f998c0104fb36884689343c82
+      internalID: 1149362107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32e3c770ded6b348bda8da8e311624f
+      internalID: -230003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed90b63fff970d43b6dca6e347c1e5e
+      internalID: -169132988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500c29e2e47a2dd4fbcaa1215d352b7a
+      internalID: 2122403481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c886acd1d1fa61e43b5b31c28e9fe992
+      internalID: 862192590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219f742a009741c40af71bc5f81718ed
+      internalID: 92612565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab2ba725b284cd45bae42ee42fd128d
+      internalID: -1822662197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20814d2007cf9ba4f9fa314bc13d65ac
+      internalID: 1231555397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3fa1609fae8444fa7b7e62e24614c5
+      internalID: 1279522382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99488d12dc553174482a277d2f025ff8
+      internalID: -1386214514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17cc2675a0d0bf41ad7193c3d03b821
+      internalID: -628007132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fef6702c895eb45aca459ba21988d6
+      internalID: 2114101521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cf686edf4c123428f9ca7bbb259c49
+      internalID: 1178213337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d09c9d1d649ad45b48075f3d2df255
+      internalID: -445382983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064424d2775d1a142967dcae4771e468
+      internalID: 1580365969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db6a1ce7d7155b468814b85d8eff6b3
+      internalID: 748607194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0490146e71c2dc40b2ea462b9856294
+      internalID: -1945460957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a80bc3ae13feb4187006fd74e31421
+      internalID: -1047894273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd5ed08780dc4a409a05adfac0b7481
+      internalID: 1128179028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ff6b31ec3e57241be8804db3409318
+      internalID: -1737333114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d914b329378dae34c9b299a3736315c7
+      internalID: -1873765199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19274687484709f47924e759da2e394f
+      internalID: -1889685817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963d38c50d7755349b2c635448eed370
+      internalID: 564077468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b0c470336caa34c9643c1e2ba27c1f
+      internalID: -979169924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1658e1314552644835e14c1afdb60e
+      internalID: 1517543285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e451678ad23eed40aa309aa43157cd2
+      internalID: -152518220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827d599ef5d654e4c9b80d4ecda5835f
+      internalID: 2087792471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db24c6a1c2b7abb4baf239d8618b8f53
+      internalID: -2075673660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d3449516f858a4894d4f4475c99939
+      internalID: -1444686590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d61e8d7fe4440141bd6260149e146a2
+      internalID: -1876531037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066832d8efcebed448d2d8808076b24b
+      internalID: -2047254766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7442cc844e9fdf4ca1e354b884c87ef
+      internalID: 592651059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69e750801e8cd8488be52cc0a5206e0
+      internalID: 870399539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47ac5568a93bcc44ad1830109a4491a
+      internalID: -1878974768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758c9376c19205340bd7b23341732659
+      internalID: -43766805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b32362e8db63f64a9f18b52dc93013a
+      internalID: 1878690471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf55e554719d2e94aa09bb6ecd7ef06b
+      internalID: -514592531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e22723a1d50b5041b43af25a9763513
+      internalID: -2125536637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c467b169ff6a991479179b73116ef883
+      internalID: -55761279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51461c072095c594fae4a5964246b9ce
+      internalID: 1606264412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21088772fdf5bc346b2eec8f177e5e19
+      internalID: -1029193174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6630ccff77b2ac4f93beb3203f32c73
+      internalID: 770411559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496982275f3cd4e44bd89fbbf203d84f
+      internalID: 1346109018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d27030385420dd43829e7d8904df263
+      internalID: -1150840900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8d3651271e40941bddc30b76d7c808
+      internalID: -1409304429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d9b54b31547ca4c9a12b1ce765c31c
+      internalID: -1329808213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6022941159ff74d478da03a3b98d699f
+      internalID: -339888221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bf86ef8e20cf446ac62e322b3404f1
+      internalID: 1432736374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e490430b220b2a43883642d92d44f25
+      internalID: -71687004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c19650dd31d6f948a788ee8744bab43
+      internalID: 988135571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f392ec534697750459325865fb3ec29e
+      internalID: 1934639961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f8faebe6417f5439b1e80caa5b5984
+      internalID: 339393253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e6122041c9bb14284aa92286eb6398
+      internalID: 1620942485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf3d88b8043fd44ab1f840c01807a90
+      internalID: 1134880732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7650fbc28a619b478d902dcad018cd3
+      internalID: 750875304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf549d537924bfc47ad6e34e6b9a5bc1
+      internalID: -752284178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e308499860b8fc542b3f0e53ad3bea51
+      internalID: 1821172016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4bfe309ab3ac343a1c7e6ffb468c14
+      internalID: 337072215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc86be10797371848b0d89c5c6075abe
+      internalID: -206369696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e62764e72d22b647ab536a720a9c237
+      internalID: -389653469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6f319311f65c044a0627f30650de0f
+      internalID: -1048081181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3670f21196e8394c8b96a8a1a657538
+      internalID: 776858798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6a98c1991fc224c913a04139b0f5ed
+      internalID: 479375973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700a816645b1aee40aebd69f72b90931
+      internalID: -1692256608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecabfe715819952448a17707845e308e
+      internalID: 513900543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07afbddbb2f45645be36a767d2298e6
+      internalID: 1470119585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d220d1101047e634e8b8506cf4eba0a5
+      internalID: 1966680353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90054a23fabe6124d9b7c4d1e6d98cbc
+      internalID: -759661523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4350aeeeb34b52046b616276f1b71418
+      internalID: 1523449214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05ec79a3488b2843b6c34910b23c987
+      internalID: 1225666989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045635e61e2e14e49b6d898ca943462d
+      internalID: 320956574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc874af71e648c14ca87ec3fdf729f1a
+      internalID: 2060478243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5d79b956cd1bd42978f880176f8608
+      internalID: -1849339106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c677ad842080f74998c15f2407f69a4
+      internalID: -154689576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b18a35a22c1c844b7722e83b4e3a67
+      internalID: -1042493748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64f310266389654488eb73b5e4fd085
+      internalID: 648225956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29598e16c7942334b8598de5ab885200
+      internalID: -1058341717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f983d5e645b464da665ce4ed9ae56a
+      internalID: -1213260572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a19695f3f12dd418785fb374df3229
+      internalID: -1077074596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a474a0aefced5446ae441b77c8f61be
+      internalID: 1601381567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dafae19f5219246861b9c391c59a5d
+      internalID: -659609033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300a1f32ca9ec44488d44c3dc8803934
+      internalID: -2112252713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_83
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c0f216e3d4b194fa9e7667c424ee34
+      internalID: -1030672455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37a063dba4700d49ab26c8fc7cf7d03
+      internalID: -1498889611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_85
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74870c7af9124e543b3ad54430443558
+      internalID: 1770805976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffab5af94704b74392cd6706f8ed3cb
+      internalID: 1941240475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e934788cdc19343b82d863bbee4d97
+      internalID: 99610127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba32fb3bbdb6894aaf074b814d5acb0
+      internalID: 744608329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeb6bee2ed4b074184fc5f15e4bb7c4
+      internalID: -894420594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcff6004fb7e304cb983b20ca7edf04
+      internalID: 2028240016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10cedc82aaf151429f3fb1abb71e68a
+      internalID: -836478732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7b189b76d32ef4e89402ee0c894287
+      internalID: -2075836849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_93
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01157286f9b66754fa622c2d739ce861
+      internalID: 432945931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffa850b528a3a845a584e4b19b25e12
+      internalID: 296802044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_95
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1e64635aa52f145aa9e91e76e3fa7e
+      internalID: 1342130795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbd496df4c7dbd4e9e49e90980cee26
+      internalID: 1552942507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703aff7869edd6f459946d4cc70d51b6
+      internalID: -2120184400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0128dfa5c3b637449d5ab61d41a89b7
+      internalID: 1252139525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85826dfce7fd651429f172d714b5a264
+      internalID: 686692205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed55f04c7ae9d6341b8f9bd64c7c8cdb
+      internalID: 1304274536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4586a1131bf81439b7dff113654a32
+      internalID: -935689975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2cd63b7f7ee9f4db5f4f8c8485b112
+      internalID: -1927042603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0569e0f685b5d2942ac8bb4151a05c50
+      internalID: -602802793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04d4281bc1515f42ba091a3552488d4
+      internalID: -599459459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85bb49b6d9092c4098adf9a14c30eec
+      internalID: 151006150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089df346f23d59a4ab308c8fe5cfdbba
+      internalID: 922990811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b133815c9215ae946a1eb15ea641a291
+      internalID: 1847974290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c259fc4892590f74f8a65e70e8e80f57
+      internalID: -332612088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_109
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e455f44f144529449990d00566c6d4b
+      internalID: 258447326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfbdc58e5a8ea64c89d1ffdcb76eb66
+      internalID: 972426579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346b0779139ecc64991bea38d4c4213e
+      internalID: 1523204182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620b7286cb6a0534fb5d6d10788c8ef5
+      internalID: -1218964074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739b30bd1cc8e2841b3b10867f3d5ec5
+      internalID: -1482964128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eac72ca40653074297407f0d4711fbe
+      internalID: 2083131451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c033788752df3d14ea9482b8c225915f
+      internalID: -1039208093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_116
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d0bb87edc3edf49b4f769cfe77f59a
+      internalID: -1527434577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f116c003403ab3046ad8460fc84e86e3
+      internalID: -1337594715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f492332456a834b459f81b7afe4acb08
+      internalID: 1049090448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418aab4761ab12c4a9e8262b523c862c
+      internalID: -1236681579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_120
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78019ae4c900a4429f53bbbe803d267
+      internalID: -537733626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_121
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47dc8be714431044a99ec5446957029
+      internalID: 1842396753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac091ab0fb72267429bc7a36b2c307a8
+      internalID: 688486372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_123
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffdecd40e4f196408a8e7f3f7268a72
+      internalID: -659960379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debe49dab63e8514481c88b0dcdfd021
+      internalID: -1607681493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_125
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30816b21eda2cc438801e8943dba8df
+      internalID: 891138165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_126
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1dcf1910065a447ae39ba2f8a6d1ef
+      internalID: 366600303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_127
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2641fa9de92c62a419b50680a76a342b
+      internalID: -1234195653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ff6945aa3ca064c8a6aafea994fd70
+      internalID: 247795859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_129
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0830ad4b2cc70643a845fb7fea7b39a
+      internalID: 670562058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129a0a9f10ba6c74e9f5b9fefc3d88ec
+      internalID: 230042869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_131
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951ccde875f68da419b45573c3ba513d
+      internalID: 1806804675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aa44d7842ac06488475391e57c4849
+      internalID: -791405328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_133
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8585b62fe67134e9ad5a301a14595e
+      internalID: -92101650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3dc583f6b9a2e4cad2a1e999f22a43
+      internalID: -1494803689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_135
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeba097d9ca6204eba68161f53fa1af
+      internalID: -1144481226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771ea4d3218af3b4093c232377e9ed03
+      internalID: 1266156838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_137
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5ed78d919ad72438ccd39e1e8f62b0
+      internalID: -1264148440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0f0b6fc676ac54ba70fa37242bd9a8
+      internalID: 381545112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_139
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c9433103cd2a742af9189958724e03
+      internalID: -952059108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_140
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a61ff79f7563b40b43af701ca43514
+      internalID: -384881754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ae172e1c80b074eb1c8a31b1a98e35
+      internalID: -588312834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_142
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376b104579b097e4a9586f8e416417d3
+      internalID: -854371706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_143
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34db862689797f429f09c10c9c8a9eb
+      internalID: -505851294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_144
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7b7b2a791fa5b46b824ff435be4d59
+      internalID: -306606414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_145
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeb4ccb70bfee240be6571fa70aa693
+      internalID: -1425925196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f57a93704ace79498575c7605a608a0
+      internalID: -1489193421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1229d220288d3042a58057e085f819b
+      internalID: -696670756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abadb82cd5bd812419e5b2bff151df94
+      internalID: 140640981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478065c2a34f6464eaa0ebcd4ab6400a
+      internalID: -1860874388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e990821aa8ef4439afbce3407e4999
+      internalID: -1749740636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cddfe1b343816742b2f4fc2c9393a38
+      internalID: 1265156153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c791af93b292841b4518ff2048dcab
+      internalID: -350985394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_153
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ade6fbfe1533b4e9348c78f083b411
+      internalID: 26662592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dbd4702fe2682498a0fb282fcde414
+      internalID: 1003888570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_155
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028c451c63e394541a234cdfcae46468
+      internalID: -1434554337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_156
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26724fb35a8772144ba9662a4df2feca
+      internalID: -1923176721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_157
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0262114f0abceab48ad4a6caabde7ece
+      internalID: 649499698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_158
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6059dd57fd892a41a140248a2511a65
+      internalID: -1569502858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830b2dd35c286544c9628314758b1e34
+      internalID: -1107864842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_160
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fe0d055fac5f842924c79b3bb0c981
+      internalID: -327019142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc22650a4383cfc40bb927c0ed18b7fe
+      internalID: 1045175622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_162
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90663ea79869024f95e40d0910a693b
+      internalID: 764092345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_163
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ad900d98f2a4245b89e7c2412ad589
+      internalID: 186964668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_164
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b1ff88ff1400d43a39e48ba5835bab
+      internalID: 2016933733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_165
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337e1635fa2b874469329421c5bd2420
+      internalID: -2062367190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b160ef5726732fb4ebe3fa23b60811c5
+      internalID: 1942593936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_167
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0535bc64a0b6d0044897254ec1acb021
+      internalID: -1069344062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_168
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dc8544a7a03504cb9a9c48f41bc3c7
+      internalID: 29487813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_169
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3b217c4dd640940b7c0d855d356495
+      internalID: 201356727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_170
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0044f8a0bc566448a573f9921dc431
+      internalID: -898238288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_171
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12f59f97516ee543b6156e72661a49e
+      internalID: 671233716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_172
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffcfcdd3fc31f4489e7f818e9876d6b
+      internalID: 1207061229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f468f884c1e134887dcd0937be7c37
+      internalID: 677819226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_174
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b68283e0c5df941818758499e21b14
+      internalID: 468946756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_175
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c302ee64bb848b1419c501d716fe3279
+      internalID: -488098573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_176
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe85fb6b47375a443af6541bfac08633
+      internalID: -1133542521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_177
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9248e2be405bd7c4c99a0e19d2853222
+      internalID: 1006086112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_178
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505f86a632fb77e4b95b2360ba201e9f
+      internalID: 873183814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_179
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ca721058239134eaade3b5311e060b
+      internalID: -978389286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_180
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14271df8679ca0848be18de02a13e00a
+      internalID: -1652295239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fa9de1134cfce41b6ac22e8fab9f23
+      internalID: -1746312331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_182
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572e60096a4864e43a392fababe55f73
+      internalID: -1611167854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_183
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837a975a57538f7469b6eca76ed50a90
+      internalID: -170920651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_184
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1adbe48672b523419a463919f116687
+      internalID: -1399846519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_185
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d455591e6bb53ca44a56ffe2762bae62
+      internalID: -1951736852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_186
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6f722e5db6fd2468c8ad4b153f6472
+      internalID: -1311385574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_187
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e399d1f5110db4942a4a8b77a982e0a4
+      internalID: -517387313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_188
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0833d7da7e7ea4db266ca26e9ac435
+      internalID: -227096265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523726b6b0ec9344eaf379724188065a
+      internalID: -2092333752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_190
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fc37c4653b7b0418a0d1398ed86f2e
+      internalID: -2117515693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_191
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c413a5cd246f92340ab63c02ef2a698a
+      internalID: 983202192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_192
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434cc9123afc37049afe61a034bad777
+      internalID: 1271793033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_193
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004284220dd07f747bccb2c489fadd24
+      internalID: -1224284957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_194
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a073f1208073264ab902dc55c4e50a4
+      internalID: -2068906606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_195
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6dfe2b3806e6c428cd7598c7436dde
+      internalID: 531566452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_196
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4057e2325fdd1047897d144c7fedd90
+      internalID: -732334005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1acb5ddfae323145b731368559b05f1
+      internalID: 1373321520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_198
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059bfe86a8afcf24cab276f1df331775
+      internalID: -1539325285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_199
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bc4caaee9c3d74d9dde34c1cb39623
+      internalID: -307061284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_200
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a438a1837391db34dbf1e22a33e596a2
+      internalID: 1132353519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_201
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388b15fb5f8a4724cb6c627d539a4ddd
+      internalID: 1453434155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_202
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ac412fe0acbbe4ca26a4edebbc75a6
+      internalID: -334979344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_203
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df110741e43e2040bbbcede5c3cd49b
+      internalID: 702546639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_204
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b54df436c240d44babdccec786516a
+      internalID: 758230598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_205
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e405ccf672da44abb2154a852883b1
+      internalID: -794732562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_206
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974c0057b0025e24bab3461123de5e98
+      internalID: -1638277653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_207
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be18d73c5d36807439d93dfd60954a14
+      internalID: -1055938837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_208
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4abc31772cb2b43a97770a34b2bc74
+      internalID: 621384552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_209
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24af8582e9b5afe4db1673ba34afaf20
+      internalID: 1354892918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_210
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6958368a5b3bd54885ac8e4d8ccf1aa
+      internalID: 1250871614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_211
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf02c8ee2a7bb0469e21334dac2554a
+      internalID: 797093650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_212
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c77d5c3ac4ee3d4eaa1f84637f55dd6
+      internalID: 1473934817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_213
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3da3650ef431fd41afc0c74791c946d
+      internalID: -768920686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_214
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfb3a6eabc5a8f4a9967e89e05ddbeb
+      internalID: -1952427462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_215
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59c57e36ab4862468fe31fb18ee05db
+      internalID: 257592070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_216
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd62832b79cc494ca7f2a38c4e33bd5
+      internalID: 23574539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_217
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f69ea04026fbd4ab79fa0f37145f28
+      internalID: 2130619875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_218
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0082e030a9d06ac4b8a7a590761f4612
+      internalID: 838216290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_219
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a6eb5cb9e78b9418e79d332c1c33cc
+      internalID: 1200288062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_220
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875f531d939033d4eaf633af35367a5e
+      internalID: 1529513588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a8767b242f5b043bc0bf8522733b78
+      internalID: 1316400229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_222
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67d847b5ce5bdd4991ae4f4e14b92a1
+      internalID: -1528599726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_223
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29f842934e5b964fb1283bfab38b554
+      internalID: 1741995357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_224
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ad58482416a604abbc262626de4ffc
+      internalID: 484678912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_225
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873e31aa90212b4499aaee2b095f9747
+      internalID: 1705876324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_226
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da433b242f94cd4699f25fd37a5f2d1
+      internalID: 1600312333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_227
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fc757ae587186499b094b79c7411ca
+      internalID: -1010318399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_228
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8eafe321f5db247bacf7cfcb17a134
+      internalID: 1548654042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_229
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605311eb3cc7e1f489c6d01dad09717b
+      internalID: 760672039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_230
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a1b5c65c38982428d7c5128a5a29ff
+      internalID: -2091812722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_231
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05939c161a160da4599dc2a8729fdb7f
+      internalID: 1284263919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_232
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096eee6cc86d6a543a37851f4dc85f02
+      internalID: -437570537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_cave_tileset_by_descendedfromullr_ddm4sgg_233
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190266ef128dfe54193af0aec3eaa1c2
+      internalID: -1720883451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_0: -594062602
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_1: 1149362107
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_10: -1386214514
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_100: 1304274536
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_101: -935689975
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_102: -1927042603
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_103: -602802793
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_104: -599459459
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_105: 151006150
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_106: 922990811
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_107: 1847974290
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_108: -332612088
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_109: 258447326
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_11: -628007132
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_110: 972426579
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_111: 1523204182
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_112: -1218964074
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_113: -1482964128
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_114: 2083131451
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_115: -1039208093
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_116: -1527434577
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_117: -1337594715
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_118: 1049090448
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_119: -1236681579
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_12: 2114101521
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_120: -537733626
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_121: 1842396753
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_122: 688486372
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_123: -659960379
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_124: -1607681493
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_125: 891138165
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_126: 366600303
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_127: -1234195653
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_128: 247795859
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_129: 670562058
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_13: 1178213337
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_130: 230042869
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_131: 1806804675
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_132: -791405328
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_133: -92101650
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_134: -1494803689
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_135: -1144481226
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_136: 1266156838
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_137: -1264148440
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_138: 381545112
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_139: -952059108
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_14: -445382983
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_140: -384881754
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_141: -588312834
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_142: -854371706
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_143: -505851294
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_144: -306606414
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_145: -1425925196
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_146: -1489193421
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_147: -696670756
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_148: 140640981
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_149: -1860874388
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_15: 1580365969
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_150: -1749740636
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_151: 1265156153
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_152: -350985394
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_153: 26662592
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_154: 1003888570
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_155: -1434554337
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_156: -1923176721
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_157: 649499698
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_158: -1569502858
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_159: -1107864842
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_16: 748607194
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_160: -327019142
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_161: 1045175622
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_162: 764092345
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_163: 186964668
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_164: 2016933733
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_165: -2062367190
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_166: 1942593936
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_167: -1069344062
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_168: 29487813
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_169: 201356727
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_17: -1945460957
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_170: -898238288
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_171: 671233716
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_172: 1207061229
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_173: 677819226
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_174: 468946756
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_175: -488098573
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_176: -1133542521
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_177: 1006086112
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_178: 873183814
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_179: -978389286
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_18: -1047894273
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_180: -1652295239
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_181: -1746312331
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_182: -1611167854
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_183: -170920651
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_184: -1399846519
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_185: -1951736852
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_186: -1311385574
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_187: -517387313
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_188: -227096265
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_189: -2092333752
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_19: 1128179028
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_190: -2117515693
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_191: 983202192
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_192: 1271793033
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_193: -1224284957
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_194: -2068906606
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_195: 531566452
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_196: -732334005
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_197: 1373321520
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_198: -1539325285
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_199: -307061284
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_2: -230003
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_20: -1737333114
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_200: 1132353519
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_201: 1453434155
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_202: -334979344
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_203: 702546639
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_204: 758230598
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_205: -794732562
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_206: -1638277653
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_207: -1055938837
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_208: 621384552
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_209: 1354892918
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_21: -1873765199
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_210: 1250871614
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_211: 797093650
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_212: 1473934817
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_213: -768920686
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_214: -1952427462
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_215: 257592070
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_216: 23574539
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_217: 2130619875
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_218: 838216290
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_219: 1200288062
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_22: -1889685817
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_220: 1529513588
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_221: 1316400229
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_222: -1528599726
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_223: 1741995357
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_224: 484678912
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_225: 1705876324
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_226: 1600312333
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_227: -1010318399
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_228: 1548654042
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_229: 760672039
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_23: 564077468
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_230: -2091812722
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_231: 1284263919
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_232: -437570537
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_233: -1720883451
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_24: -979169924
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_25: 1517543285
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_26: -152518220
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_27: 2087792471
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_28: -2075673660
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_29: -1444686590
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_3: -169132988
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_30: -1876531037
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_31: -2047254766
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_32: 592651059
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_33: 870399539
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_34: -1878974768
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_35: -43766805
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_36: 1878690471
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_37: -514592531
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_38: -2125536637
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_39: -55761279
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_4: 2122403481
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_40: 1606264412
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_41: -1029193174
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_42: 770411559
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_43: 1346109018
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_44: -1150840900
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_45: -1409304429
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_46: -1329808213
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_47: -339888221
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_48: 1432736374
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_49: -71687004
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_5: 862192590
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_50: 988135571
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_51: 1934639961
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_52: 339393253
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_53: 1620942485
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_54: 1134880732
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_55: 750875304
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_56: -752284178
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_57: 1821172016
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_58: 337072215
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_59: -206369696
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_6: 92612565
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_60: -389653469
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_61: -1048081181
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_62: 776858798
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_63: 479375973
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_64: -1692256608
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_65: 513900543
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_66: 1470119585
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_67: 1966680353
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_68: -759661523
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_69: 1523449214
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_7: -1822662197
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_70: 1225666989
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_71: 320956574
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_72: 2060478243
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_73: -1849339106
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_74: -154689576
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_75: -1042493748
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_76: 648225956
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_77: -1058341717
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_78: -1213260572
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_79: -1077074596
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_8: 1231555397
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_80: 1601381567
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_81: -659609033
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_82: -2112252713
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_83: -1030672455
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_84: -1498889611
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_85: 1770805976
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_86: 1941240475
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_87: 99610127
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_88: 744608329
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_89: -894420594
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_9: 1279522382
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_90: 2028240016
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_91: -836478732
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_92: -2075836849
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_93: 432945931
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_94: 296802044
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_95: 1342130795
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_96: 1552942507
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_97: -2120184400
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_98: 1252139525
+      lava_cave_tileset_by_descendedfromullr_ddm4sgg_99: 686692205
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

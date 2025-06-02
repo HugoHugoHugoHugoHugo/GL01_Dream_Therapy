@@ -1,0 +1,5261 @@
+fileFormatVersion: 2
+guid: b790862cd9ba5a94eb3163062e4a1a86
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfda9d6ca924c643b8f3864b8b0c356
+      internalID: 363553408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699f679ffa619674b99793eed9679ad4
+      internalID: -335993933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fe6764148f6da4b8d318d67b9bc053
+      internalID: 2021353074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41bfd8b4b3c8ff4093fa63ca1671f2a
+      internalID: -1784241275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6195c53725904c4f819e2e7654c1cfc
+      internalID: -2044758355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db04fe85ea3a4404fa78e994489795ce
+      internalID: 1443984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab688e2adabf5541b6be6561773e187
+      internalID: 1148861742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cee7f8ba830014a9063298892d6147
+      internalID: -1840126726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32197c60cbde8845b82e0ba571cec30
+      internalID: 655549573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7161b8b7d6625f3448e77e528f5f1fc2
+      internalID: 1397150714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682135ced9329cd4b87c0c597da64389
+      internalID: -943717157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cdca4c9b3381940a442ced5953f86d
+      internalID: -110221969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170121526b6eb6c4c8a632697610a148
+      internalID: -1840118848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1914d38721c42bf4fb89399a4d93dc88
+      internalID: -251832232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6589bfab752a61140859d032bb6c29c0
+      internalID: -2004999990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca07dcdb6bf217d488beac4a4fbe0af8
+      internalID: -2077411978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f34a1e7866d5540812bb199b9ad455
+      internalID: -1337870815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093d4b5a6d06c0f4a9b6434c57b3e252
+      internalID: -1914254543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f29f568567cc94ab6244cddffb6fb8
+      internalID: -1345829848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f655fb4563b58df49b741b23612fb3af
+      internalID: 976191774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6391ae79171c82c4687ad5d6a8ae826c
+      internalID: 603378123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d8ba557b7b90444bb2313739a3e04c
+      internalID: -65223207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d0443cf4e071e459537a3c5dca3c51
+      internalID: -1837974413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a302ff5b5125add44b51508d0d40c729
+      internalID: -1455138541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef4e28ab509ebe4aab4045c4c728d5d
+      internalID: -306463791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9bddbe937ebb649b7dfd10262b0a2a
+      internalID: 472826184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680478f5d7ed7bb4eb1c05a1ddf244ad
+      internalID: 1905670472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be96c70575ab7a84aa3515f2fb760dd8
+      internalID: -625944203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252d68f95ddfdab4b9929efc7cd853c3
+      internalID: -1281878001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a716fc1d343d0d4c93123f3b5629453
+      internalID: -312340672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6044438ba762d4c45b280c60335ad724
+      internalID: -303757714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1739eb94f88a2f84a931139503209174
+      internalID: 729638496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac42c4db60758b49b1a8a5f500f0151
+      internalID: 195606919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8987004525f4344890d40a1c63a252d
+      internalID: 1949873618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a247d8cd72d0b49a64cb5fd85dfc88
+      internalID: 1739849510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cd14a039b62e94b8a2036ca8d5900a
+      internalID: 21639441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4172d699a48ad3e4ea33ddf12dbe2acd
+      internalID: 2146004650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171103337973c5242a78013ffbb32785
+      internalID: 1344190143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdf309cf95319b4197cc0f8526c282d
+      internalID: 1740611722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f05854bbf90f249965c4be1c65f9a8
+      internalID: 35378035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6836ee5092e0fbc469e09a8dc5d25078
+      internalID: -102649579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b10af618f953f4e92ee985ea1a14ef
+      internalID: -389481810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba3f4d5eaa76714491184dfbc16a17e
+      internalID: -41568543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca51aa97e76c0e43b7c8a3acf65f73d
+      internalID: 964415293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a206fbfefd122554fa3001a6f2c76ebc
+      internalID: -291082159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f504f5e1e22291d4486e9016ac46c80c
+      internalID: -1259328269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf6128828d93a04f881ee7b8e5d98b0
+      internalID: -1987165705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031b5a6a89da51142b1147aea9c95fe2
+      internalID: 1497311656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc365da95372c4a41bb3af1f2f412161
+      internalID: -333590298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9454f061f9c02a64694f684ea5faa24f
+      internalID: 1873885950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfecd76ab97eef4f852700be4f54ad3
+      internalID: 32418136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cc4db0c0e339145afb67fd572c1f13
+      internalID: -1304910171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f78c6462af70874c9d6955e9e036a94
+      internalID: 1178536579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d7297ac843f904cb19e1d92dbe1117
+      internalID: -1471898984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e0430a22114a14b9f38a76397bcac6
+      internalID: 278142310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c27facf5522d9d4c9cd55c9744755e1
+      internalID: 660618585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c160cbb401e96a744bfa4408c0fe449b
+      internalID: 1554787220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc66e304f60da14c9d6af2acbc58bdc
+      internalID: 1801993500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f8af67a2ddbb64c8d8dd562fb280e7
+      internalID: 949590054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ea1eecf60e9f544881c348111b214f
+      internalID: -1839255699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee2aa9f958976441b8390034c21cf04
+      internalID: -2038232855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451f74c4d821b6c42aa6b3987f802641
+      internalID: -1944285860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45762fcd5a2955843a45c10a8161262a
+      internalID: -824315410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e699608711cf248886c271899399d7
+      internalID: -900809111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a5f828b1da25048b6559fced13ed4d
+      internalID: 459112921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f45fe85388165842b60c5ad36968e27
+      internalID: 937000945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d8b5fd26e327c4cb4fc389b78c4097
+      internalID: 890181124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d451a9ef8e02c448a69f046d471f654
+      internalID: 1722302642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c96d26550cd1245918f2cc42155a06
+      internalID: -308656657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fd3b4cbb905774e922993a5ef176d3
+      internalID: -824798671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3317112db09f96d448142b235768f641
+      internalID: 964929213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bbec7f24b14a94fa61ae00ec63d5af
+      internalID: -1295766616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c69556800cb2446a88d15419885548
+      internalID: -791641758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95dd8df70c90274fb3fb9ce87f42ed4
+      internalID: 2034084103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04c85560bb48d94b9bc793fff42537f
+      internalID: 539489966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ab18a3f6e44c1478fc8c8fd9604579
+      internalID: 1763468064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968cfdf059d03e749a2f2bd1897368bd
+      internalID: 569258701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f5c9acfda67534a967848cc79469a3
+      internalID: 329073203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b275e4013d39d44eaa0d3f7a4f665f4
+      internalID: 1882261898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c0e2972a9cae244970948933af1cc7
+      internalID: -870028913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a800efc870b620142a315d0b204a82d1
+      internalID: 685970565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24559d8469e6ba4a96e5c811e36eb0b
+      internalID: 826324709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d294b342f67a544ebb691e567646a0c
+      internalID: -54619437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_83
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224bfb600a8c9b049bf8ef1540d4763c
+      internalID: 1095711339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b5ec696a5f762499327b0415d9eae5
+      internalID: 1440697815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_85
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab18c6e025ce6684cb8b3013c08647e1
+      internalID: -637251232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723f11d5d39073540a0d8167ed1c2f14
+      internalID: 824253576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9e7574f2970214a90d0b2b228d5c2c
+      internalID: 496342558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21e3c97b41977b449723369f1c2d3da
+      internalID: 561024031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244bbf5c0f6ed1e4795070e2fd9b82b1
+      internalID: -886531602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb01cb524f7fd2043a5111790f686d8c
+      internalID: -357556347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648541cd4fe33e448ba7161b8e871f72
+      internalID: -890437654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bc2c8b5a3746f42a3cbe7dd86fa748
+      internalID: -252608205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_93
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89f7068763ac9a43ba991d522f5e2d9
+      internalID: -2085403458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35473c767da778d4aaf9edbe3431f3ac
+      internalID: 1248895105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_95
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1407ac1bdc82d1245ada45b267943b58
+      internalID: 683140503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7713a89d98df55d48a0964cc4208da77
+      internalID: -1217850578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10812ce3afde354dbd8a1e06bf4cf90
+      internalID: -12664053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b60749b5f80894db38f54b2dfd078b
+      internalID: -588353367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1395a00f3af8147af4036492c15fc3
+      internalID: 1773796933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed92022f84e11a4c8608d8b6a462392
+      internalID: 1382672218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c2b655cd26fb04f9cad92b277ebc54
+      internalID: -818918536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9693a4ef394cc49b30e561bdf16bb1
+      internalID: -1482420273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3c9bfc555ca044f96e09a20a54872c
+      internalID: 606862417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ade7565f5c913f46a342ae080cce5db
+      internalID: -1189178046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cff5785b06ce34f85e0de48f204dec
+      internalID: -1018716923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6682fb608fe7f494cb3e47965a806cdb
+      internalID: 1624555359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9219a41a988ac46b44925f83b077f4
+      internalID: 848045752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d1d3f2541792c44865756706faba67
+      internalID: 423770714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_109
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbdadc315ba1d44fb1a3d46b4a1a140
+      internalID: 980000152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793a8ecc1760dcb4e8cde2675b45854a
+      internalID: -769623591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb2a37b8cef614439fb669a54f768b7
+      internalID: -817821676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ceb4736025824840834a3992e1d5fbf
+      internalID: -1149243262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357e5868ba50c034eba2d45ad6d1a6ab
+      internalID: -1378575929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf838a875024524d8d053f011ba78e5
+      internalID: 633207746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b821a75a2499542831294cb04fbdd5
+      internalID: -1848308876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d7aefbf0afb0047a3a13c8c17cc125
+      internalID: -39538912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_117
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c098ceedbf98db147aeba1bda7bc85f9
+      internalID: 1232425238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358b4c59d2c6c3f40ad39b2b177b2eee
+      internalID: -1356651333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246d5fc28835a594095ab08ea514fc2c
+      internalID: 109538216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_120
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce08730be50d9fb43bc824ded5681327
+      internalID: -2089579992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_121
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfe10c36a64af1428d00b5431508efa
+      internalID: -1040331395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_122
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556f15b619d75c74d9dd439a38558bd6
+      internalID: 75789626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d891e7b331375394ea144d6c808776a3
+      internalID: -1217399260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_124
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67e1db71e93d5744ae37a4589783e35
+      internalID: 259500772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_125
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877684d3b70df7c42a1774b182720fec
+      internalID: 542994249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b175685e7d7ea48a19d8ce7e817ba8
+      internalID: -1332102184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_127
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8df8a7322d113640965507582071558
+      internalID: 2048302907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_128
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0b9f474c75ad94ba72d7ca4d029294
+      internalID: 2107904810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223768f223c0e9440a75eb10603ad807
+      internalID: -1796865362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2901a08c5b6b640a525d7d26167f4a
+      internalID: -1362298982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_131
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f758ac7ad7210e4fa063a78d34c726f
+      internalID: -1808091646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_132
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcedfa0b29d7334184c3b3a8004eb36
+      internalID: 345868306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_133
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a388f1b23e9b04f9a5922cc235353d
+      internalID: 422446875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_134
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9685e0e5921e32145aa14797133e9008
+      internalID: 2099353316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_135
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f7c4ba6885d9548a6c1f99da21fea9
+      internalID: -1152999365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_136
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa90590304fcad498f3a5190958ff71
+      internalID: -490985761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be6a31f5eff33245875c895ebd63802
+      internalID: 9780630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_138
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9d99e84839ae0458b475186f640313
+      internalID: -2114676749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1d5ff767a7c414bad43f71b13c34cc
+      internalID: 1295716019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_140
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d11af4b0ff5dd24bb8048a049073f08
+      internalID: -1013219276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_141
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3ba2c09385d6142bd3664c45e3a8ea
+      internalID: -1850675626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_142
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec706e54f78eefc4d80d422225121153
+      internalID: -809225142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_143
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3e61ece3a8293458922cc043eb83a7
+      internalID: 1251196471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_144
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f532a481f70fd944a005fb45d1341c7
+      internalID: -1558809833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5641745af2cae5418ced781dcea7711
+      internalID: -1003914722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174a3086617d31847ba3196b18c96cd3
+      internalID: 529182137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_147
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff5f419813300f43b369a1595b4139f
+      internalID: -853104942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_148
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7590a2322674eb74682ab1075c01f38a
+      internalID: -1636777454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c2780aae2f3e74ba79a2bc5cfe6e7a
+      internalID: -19288756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_150
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88bb396f886f53478fd51127e1bd709
+      internalID: 235968797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268ec336f3d10d74292d6aee9aae14e5
+      internalID: 1438828766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_152
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85a7b7b3fab294449fd6cc32775fecb
+      internalID: -495035417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_153
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fead831894ba04db194501e1b3a3fc
+      internalID: 2093663928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_154
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225c0f4cfd2fd0d4fb9437bd8ded628b
+      internalID: -1226192290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778d9608e4979034c827db9e73091591
+      internalID: -1977612258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_156
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f99b6a6db7506c43a3eac393ad46f53
+      internalID: 80942679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_157
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aab04ba67679214cb988fb8821732f4
+      internalID: -1537505095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c9ef04029a8cc43babb06516661cd9
+      internalID: -597461007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_159
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82253c94038e374b80c8c2a1ff16c1c
+      internalID: -17262468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2119b1e12b347046bf3b4899221adae
+      internalID: 1836623951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_161
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a96207a87870c4d98f3572b61d3647
+      internalID: 241617604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183a13c0552537149a973f79e52c92bb
+      internalID: -2145198525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_163
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6fb9412e61ae3459f54216865774a6
+      internalID: -220211186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9ce06216dbbf1408516e818b20bc61
+      internalID: -833586571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a9f3fc2645e374e94254b8da06a187
+      internalID: -374064573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_166
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081131cd3cc2ad4459533ac364b87c6c
+      internalID: 1185204364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_167
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad377dcfb425a84d805486515a4ca39
+      internalID: -1953721228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_168
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1989d344c50cf7f42a3dc86dde8e0980
+      internalID: -2111770994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_169
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ffa8c0dd5b7e14182dddd5a1d213a5
+      internalID: -1783572861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_170
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfee106aba6ca2941871e8e0638ba318
+      internalID: -709671689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_171
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16664d35b8d5c274ea37adb18b82e12a
+      internalID: -2040120648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bf80df6fced4d45b8ad7879e8c5ef2
+      internalID: 2134725465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_173
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ed7416a67bef944b9f20cade06fa9e
+      internalID: -1810936229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_174
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd6d683150eae54db0d063a7326d089
+      internalID: 1139101274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_175
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3972aae2f7c9c47418dacefcc3acd983
+      internalID: -155720215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_176
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265485249d12dae43bd259b146cbb6ee
+      internalID: 1639875584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_177
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de600b6ad83e3f4db683938099510a2
+      internalID: 960994694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_178
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee609a0effe58d1498154a0a88ff6944
+      internalID: 617861028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_179
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd1b49fb64304146ba7cfcc37db52c3
+      internalID: 1985504006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eec8fcac538bcb4589b1903e6fd8cb3
+      internalID: 471545059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_181
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661fee97c0c632b449d99d01c2d6dfc9
+      internalID: 1513532538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_182
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2a1228cffc3804e9ad6f6ee9aa6685
+      internalID: -1754736256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_183
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891a36512e7e4674cb7ffba836f82fc5
+      internalID: 120271669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_184
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa56d6bc22fee944b873a8a3fc2f055b
+      internalID: -672981439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_185
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20febf5043cea044ca3e856d885a745b
+      internalID: -523648966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_186
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea9ea088d7962e479340cb5c5e9706f
+      internalID: 1305666132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_187
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f1f80e087084445b07732a91b83139
+      internalID: 1269505289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7483fa7b6936ec409c451bd51a78585
+      internalID: 990296954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_189
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50721dc1f5fb1914b9a733c950de46c8
+      internalID: -1208239492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_190
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f02530a1408b9d4eb4c963be352a08b
+      internalID: -1772389907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_191
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f15c760904cc540acaffab579bf010
+      internalID: 626761365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_192
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997631599e2bf8543a1305090091051a
+      internalID: 1836458003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_193
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6d8bc5dd947514d953451cfa54b34d
+      internalID: 1114169452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_194
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28542221794a664098fe5c3091828e3
+      internalID: -1601550337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_195
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2466bf78abfcc2468e1ce212818f545
+      internalID: -2091807592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b3963a9a40ffe41abe91898a384fa0
+      internalID: -390449130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_197
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a7cf593db9ed942bcd8f0dd1e9ccaf
+      internalID: -1644580875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_198
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9838a556f0ee3fc4aa6332d29046769a
+      internalID: -1659344975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_199
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a9643cba17b4147846e9458f862b52
+      internalID: -1046444986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_200
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77ad141ed763774db68266ed3cdc99d
+      internalID: -196186407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_201
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a3a7cf07840324890d3cc86a0e730c
+      internalID: 215116820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_202
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86effd2b17a41ad4b8f7e2a4d6e7b41a
+      internalID: -344004229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_203
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcef53a098c92b6428dd7176d0ee9cf1
+      internalID: -1126580083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b88cb5efc3a12149a9646008f1b7c90
+      internalID: 1509416956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_205
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c25aa949a61b484aa765ac81bf526f7
+      internalID: -2014449590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_206
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb816903ea9da4e47aab161d8efecbee
+      internalID: -1652441682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_207
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb51fcdcc08f67348b978026bcf0f8e9
+      internalID: 292484036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_208
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503b70a4b6dfb4b4b9bbfb1863bfe9a6
+      internalID: 316568147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_209
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50e527405c97784c879a006f94e1224
+      internalID: 1150032794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_210
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033ee00f31e6eca449fd90cc0a9c5716
+      internalID: -990978601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_211
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eee20544485bc549a8f67468ba5bfad
+      internalID: 1138709456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_212
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743fb9fd0c8e792479e9fa4670fae156
+      internalID: 1336445295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_213
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881d99eaf53fb5e48949a82f632eb940
+      internalID: 995235201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_214
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f522659ffe34fd840991c73764bca664
+      internalID: -1892343766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_215
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101b72a524b3e4d4cbc7a3d9a5bb0f87
+      internalID: 1111946601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_216
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc788172c46df34a9f8b759012258f7
+      internalID: -1800481583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_217
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c13f9996cca81409d7efdf7474c4b0
+      internalID: 1465433199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_218
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d182f36a826ef14b8d018ae2a595a85
+      internalID: -1557266046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_219
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4adfa15290fbd744acf7b899de4195e
+      internalID: -156058381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490da88e60b945a4983fb794fd81ce67
+      internalID: 253313448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_221
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dafd5f76623a1644a24d91394d4fab3
+      internalID: 1666329486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_222
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e789e3fa69b77ff499efa8948929de5a
+      internalID: -1582130547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_223
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41941adbe44bc7440ab5d338b409b0d9
+      internalID: -535389007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_224
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7103f49f8efe1964e87d437b2c2d3e00
+      internalID: 1357931543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_225
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572196f3d4f50874db9e02f63e21587e
+      internalID: -2028772194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_226
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67945fadd44b6234f8ef4731196c1883
+      internalID: 968164777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_227
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d217eeeb202449c44b3937639dee5347
+      internalID: 854752614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_228
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b442667a984481c4f9e0f8f6a8d4c032
+      internalID: 514220119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_229
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b342ce577c97f1a4885ce4b6ee83ced7
+      internalID: 252366974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_230
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35b44fe2c9f3f248914950595d600f2
+      internalID: -7537150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_231
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a888541aa9a092f499bf8cfdadfe4be5
+      internalID: 300644599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_cave_tileset_by_descendedfromullr_ddm4sx4_232
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61401e71fde7dba4fbe91872b2bf7357
+      internalID: -335135903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_0: 363553408
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_1: -335993933
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_10: -943717157
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_100: 1382672218
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_101: -818918536
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_102: -1482420273
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_103: 606862417
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_104: -1189178046
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_105: -1018716923
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_106: 1624555359
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_107: 848045752
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_108: 423770714
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_109: 980000152
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_11: -110221969
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_110: -769623591
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_111: -817821676
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_112: -1149243262
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_113: -1378575929
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_114: 633207746
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_115: -1848308876
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_116: -39538912
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_117: 1232425238
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_118: -1356651333
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_119: 109538216
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_12: -1840118848
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_120: -2089579992
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_121: -1040331395
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_122: 75789626
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_123: -1217399260
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_124: 259500772
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_125: 542994249
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_126: -1332102184
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_127: 2048302907
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_128: 2107904810
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_129: -1796865362
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_13: -251832232
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_130: -1362298982
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_131: -1808091646
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_132: 345868306
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_133: 422446875
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_134: 2099353316
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_135: -1152999365
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_136: -490985761
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_137: 9780630
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_138: -2114676749
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_139: 1295716019
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_14: -2004999990
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_140: -1013219276
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_141: -1850675626
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_142: -809225142
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_143: 1251196471
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_144: -1558809833
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_145: -1003914722
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_146: 529182137
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_147: -853104942
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_148: -1636777454
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_149: -19288756
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_15: -2077411978
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_150: 235968797
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_151: 1438828766
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_152: -495035417
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_153: 2093663928
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_154: -1226192290
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_155: -1977612258
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_156: 80942679
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_157: -1537505095
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_158: -597461007
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_159: -17262468
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_16: -1337870815
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_160: 1836623951
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_161: 241617604
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_162: -2145198525
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_163: -220211186
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_164: -833586571
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_165: -374064573
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_166: 1185204364
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_167: -1953721228
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_168: -2111770994
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_169: -1783572861
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_17: -1914254543
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_170: -709671689
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_171: -2040120648
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_172: 2134725465
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_173: -1810936229
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_174: 1139101274
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_175: -155720215
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_176: 1639875584
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_177: 960994694
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_178: 617861028
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_179: 1985504006
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_18: -1345829848
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_180: 471545059
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_181: 1513532538
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_182: -1754736256
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_183: 120271669
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_184: -672981439
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_185: -523648966
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_186: 1305666132
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_187: 1269505289
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_188: 990296954
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_189: -1208239492
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_19: 976191774
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_190: -1772389907
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_191: 626761365
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_192: 1836458003
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_193: 1114169452
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_194: -1601550337
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_195: -2091807592
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_196: -390449130
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_197: -1644580875
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_198: -1659344975
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_199: -1046444986
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_2: 2021353074
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_20: 603378123
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_200: -196186407
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_201: 215116820
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_202: -344004229
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_203: -1126580083
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_204: 1509416956
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_205: -2014449590
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_206: -1652441682
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_207: 292484036
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_208: 316568147
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_209: 1150032794
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_21: -65223207
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_210: -990978601
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_211: 1138709456
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_212: 1336445295
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_213: 995235201
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_214: -1892343766
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_215: 1111946601
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_216: -1800481583
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_217: 1465433199
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_218: -1557266046
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_219: -156058381
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_22: -1837974413
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_220: 253313448
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_221: 1666329486
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_222: -1582130547
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_223: -535389007
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_224: 1357931543
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_225: -2028772194
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_226: 968164777
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_227: 854752614
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_228: 514220119
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_229: 252366974
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_23: -1455138541
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_230: -7537150
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_231: 300644599
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_232: -335135903
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_24: -306463791
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_25: 472826184
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_26: 1905670472
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_27: -625944203
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_28: -1281878001
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_29: -312340672
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_3: -1784241275
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_30: -303757714
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_31: 729638496
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_32: 195606919
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_33: 1949873618
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_34: 1739849510
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_35: 21639441
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_36: 2146004650
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_37: 1344190143
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_38: 1740611722
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_39: 35378035
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_4: -2044758355
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_40: -102649579
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_41: -389481810
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_42: -41568543
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_43: 964415293
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_44: -291082159
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_45: -1259328269
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_46: -1987165705
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_47: 1497311656
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_48: -333590298
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_49: 1873885950
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_5: 1443984
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_50: 32418136
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_51: -1304910171
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_52: 1178536579
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_53: -1471898984
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_54: 278142310
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_55: 660618585
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_56: 1554787220
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_57: 1801993500
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_58: 949590054
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_59: -1839255699
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_6: 1148861742
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_60: -2038232855
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_61: -1944285860
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_62: -824315410
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_63: -900809111
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_64: 459112921
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_65: 937000945
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_66: 890181124
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_67: 1722302642
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_68: -308656657
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_69: -824798671
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_7: -1840126726
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_70: 964929213
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_71: -1295766616
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_72: -791641758
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_73: 2034084103
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_74: 539489966
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_75: 1763468064
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_76: 569258701
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_77: 329073203
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_78: 1882261898
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_79: -870028913
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_8: 655549573
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_80: 685970565
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_81: 826324709
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_82: -54619437
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_83: 1095711339
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_84: 1440697815
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_85: -637251232
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_86: 824253576
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_87: 496342558
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_88: 561024031
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_89: -886531602
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_9: 1397150714
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_90: -357556347
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_91: -890437654
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_92: -252608205
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_93: -2085403458
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_94: 1248895105
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_95: 683140503
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_96: -1217850578
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_97: -12664053
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_98: -588353367
+      ice_cave_tileset_by_descendedfromullr_ddm4sx4_99: 1773796933
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
