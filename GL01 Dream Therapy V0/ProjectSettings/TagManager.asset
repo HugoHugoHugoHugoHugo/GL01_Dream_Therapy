@@ -7,6 +7,7 @@ TagManager:
   - Weapon
   - Enemy
   - EnemyBullet
+  - Nuage
   layers:
   - Default
   - TransparentFX
@@ -18,7 +19,7 @@ TagManager:
   - Enemy
   - Invincible
   - EnemyBullet
-  - 
+  - PlayerBullet
   - 
   - 
   - 
