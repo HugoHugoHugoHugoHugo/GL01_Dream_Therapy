@@ -46,7 +46,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Mob","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Object,
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Mob","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 2628160552106998400, guid: 2baf2ad30f8cfe6459769fdafd9a7937, type: 3}
@@ -65,4 +65,4 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: a6f1fa8186e7d98429b01654e51c3767, type: 2}
+    - {fileID: 11400000, guid: b7e7a70f2380e154abc77748d7aab86c, type: 2}

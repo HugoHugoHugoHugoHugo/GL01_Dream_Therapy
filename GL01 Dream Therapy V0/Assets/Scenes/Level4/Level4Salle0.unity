@@ -2209,10 +2209,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: SpawnerLicorne
       objectReference: {fileID: 0}
-    - target: {fileID: 5455547509069084756, guid: 1412720aa13e6ad42be32a5aa3567d68, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 8727804307855681217, guid: 1412720aa13e6ad42be32a5aa3567d68, type: 3}
       propertyPath: m_RootOrder
       value: 14
