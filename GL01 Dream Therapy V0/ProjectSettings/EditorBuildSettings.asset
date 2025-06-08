@@ -30,6 +30,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Level4/Level4Salle4.unity
     guid: ea63bc1894c38ed449a2780735b77746
   - enabled: 1
+    path: Assets/Scenes/Level3/Level3Salle0.unity
+    guid: 1ff8677a2aaa57141bccb8aded2a8a07
+  - enabled: 1
+    path: Assets/Scenes/Level3/Level3Salle1.unity
+    guid: b817cb6104927504f908d223c236a3d9
+  - enabled: 1
     path: Assets/Scenes/Level4/Level4Salle5.unity
     guid: b0c60832b2a604240a7a021a8b81c4fd
   - enabled: 1
