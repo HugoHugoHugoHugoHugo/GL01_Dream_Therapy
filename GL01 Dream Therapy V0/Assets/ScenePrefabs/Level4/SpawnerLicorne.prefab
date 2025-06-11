@@ -65,4 +65,4 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: b7e7a70f2380e154abc77748d7aab86c, type: 2}
+    - {fileID: 11400000, guid: 6afbc0aa4c2b29641b527b71a930edb1, type: 2}
