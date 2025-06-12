@@ -608,6 +608,9 @@ namespace Unity.VisualScripting.Generated.Aot
 	// EnemyMove.op_Implicit
 	// EnemyMove.op_Equality
 	// EnemyMove.op_Inequality
+	// PauseMenuFunction.op_Implicit
+	// PauseMenuFunction.op_Equality
+	// PauseMenuFunction.op_Inequality
 	// TMPro.TextContainer.op_Implicit
 	// TMPro.TextContainer.op_Equality
 	// TMPro.TextContainer.op_Inequality
@@ -793,27 +796,105 @@ namespace Unity.VisualScripting.Generated.Aot
 	// UnityEngine.EventSystems.UIBehaviour.op_Inequality
 	// --------------- Plugin Stubs
 	// --------------- Asset Stubs
-	// UnityEngine.Input.GetAxis
-	// UnityEngine.Transform.position
-	// UnityEngine.Vector3.x
-	// UnityEngine.Vector2.normalized
-	// UnityEngine.Input.mousePosition
-	// UnityEngine.Vector2.magnitude
-	// UnityEngine.Animator.SetFloat
-	// UnityEngine.GameObject.FindGameObjectWithTag
-	// UnityEngine.Camera.ScreenToWorldPoint
-	// UnityEngine.Vector3.y
-	// UnityEngine.Rigidbody2D.velocity
-	// UnityEngine.Vector2..ctor
+	// string.Contains
+	// UnityEngine.GameObject.FindGameObjectsWithTag
+	// UnityEngine.SceneManagement.SceneManager.GetActiveScene
+	// UnityEngine.SceneManagement.Scene.name
 	// UnityEngine.SceneManagement.SceneManager.LoadScene
-	// UnityEngine.Mathf.Atan2
-	// UnityEngine.Mathf.Rad2Deg
-	// UnityEngine.Quaternion.Euler
-	// UnityEngine.Transform.rotation
-	// UnityEngine.Transform.localScale
-	// UnityEngine.GameObject.FindWithTag
-	// UnityEngine.GameObject.Instantiate
 	// UnityEngine.GameObject.Destroy
+	// UnityEngine.Time.timeScale
+	// UnityEngine.UI.Image.enabled
+	// UnityEngine.Vector3.x
+	// UnityEngine.Animator.SetFloat
+	// UnityEngine.Vector3.y
+	// UnityEngine.AI.NavMeshAgent.desiredVelocity
+	// UnityEngine.AI.NavMeshAgent.destination
+	// UnityEngine.Vector3.magnitude
+	// UnityEngine.Transform.position
+	// UnityEngine.AI.NavMeshAgent.SetDestination
+	// UnityEngine.Vector2..ctor
+	// UnityEngine.Transform.localPosition
+	// UnityEngine.Vector2.magnitude
+	// UnityEngine.Rigidbody2D.velocity
+	// UnityEngine.Vector3..ctor
+	// UnityEngine.Vector2.normalized
+	// UnityEngine.Vector2.x
+	// UnityEngine.Animator.SetTrigger
+	// UnityEngine.GameObject.layer
+	// UnityEngine.LayerMask.NameToLayer
+	// UnityEngine.Vector3.SmoothDamp
+	// UnityEngine.Vector3.zero
+	// UnityEngine.Input.GetAxis
+	// UnityEngine.Camera.ScreenToWorldPoint
+	// UnityEngine.Component.Destroy
+	// string.Concat
+	// UnityEngine.Debug.Log
+	// UnityEngine.GameObject.FindGameObjectWithTag
+	// UnityEngine.Input.mousePosition
+	// UnityEngine.GameObject.DontDestroyOnLoad
+	// UnityEngine.SceneManagement.SceneManager.LoadScene
+	// UnityEngine.GameObject.CompareTag
+	// UnityEngine.SpriteRenderer.sprite
+	// UnityEngine.Random.Range
+	// UnityEngine.GameObject.Instantiate
+	// UnityEngine.Physics2D.CircleCast
+	// UnityEngine.Vector3..ctor
+	// UnityEngine.RaycastHit2D.centroid
+	// UnityEngine.RaycastHit2D.point
+	// UnityEngine.RaycastHit2D.normal
+	// UnityEngine.RaycastHit2D.distance
+	// UnityEngine.RaycastHit2D.fraction
+	// UnityEngine.RaycastHit2D.collider
+	// UnityEngine.RaycastHit2D.rigidbody
+	// UnityEngine.RaycastHit2D.transform
+	// UnityEngine.Debug.DrawLine
+	// UnityEngine.Mathf.Infinity
+	// UnityEngine.Vector2.y
+	// UnityEngine.Collider2D.gameObject
+	// UnityEngine.Component.tag
+	// UnityEngine.BoxCollider2D.enabled
+	// UnityEngine.Vector3.Magnitude
+	// UnityEngine.Component.Instantiate
+	// UnityEngine.Component.GetComponent
+	// UnityEngine.Physics2D.IgnoreCollision
+	// UnityEngine.Mathf.Rad2Deg
+	// UnityEngine.Transform.rotation
+	// UnityEngine.Mathf.Atan2
+	// UnityEngine.Quaternion.Euler
+	// UnityEngine.Vector3.one
+	// UnityEngine.Transform.localScale
+	// UnityEngine.GameObject.Destroy
+	// UnityEngine.Random.Range
+	// UnityEngine.AI.NavMeshAgent.updateRotation
+	// UnityEngine.AI.NavMeshAgent.updateUpAxis
+	// UnityEngine.Component.Destroy
+	// UnityEngine.Animator.SetBool
+	// UnityEngine.AnimatorStateInfo.IsName
+	// UnityEngine.Animator.GetCurrentAnimatorStateInfo
+	// UnityEngine.GameObject.FindWithTag
+	// UnityEngine.GameObject..ctor
+	// UnityEngine.SceneManagement.SceneManager.UnloadSceneAsync
+	// UnityEngine.GameObject.transform
+	// --------------- Scene Stubs
+	// --------------- Scene Stubs
+	// --------------- Scene Stubs
+	// --------------- Scene Stubs
+	// --------------- Scene Stubs
+	// --------------- Scene Stubs
+	// --------------- Scene Stubs
+	// --------------- Scene Stubs
+	// --------------- Scene Stubs
+	// --------------- Scene Stubs
+	// --------------- Scene Stubs
+	// --------------- Scene Stubs
+	// --------------- Scene Stubs
+	// --------------- Scene Stubs
+	// --------------- Scene Stubs
+	// --------------- Scene Stubs
+	// --------------- Scene Stubs
+	// --------------- Scene Stubs
+	// UnityEngine.GameObject.SetActive
+	// UnityEngine.UI.Image.sprite
 	// --------------- Scene Stubs
 	// --------------- Scene Stubs
 	[UnityEngine.Scripting.PreserveAttribute()]
@@ -7756,6 +7837,41 @@ namespace Unity.VisualScripting.Generated.Aot
 			optimized.Invoke(default(object[]));
 		}
 		
+		// PauseMenuFunction.op_Implicit
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void PauseMenuFunction_op_Implicit()
+		{
+			global::UnityEngine.Object arg0 = default(global::UnityEngine.Object);
+			bool conversion = ((bool)(arg0));
+			global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.Object, bool> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.Object, bool>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// PauseMenuFunction.op_Equality
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void PauseMenuFunction_op_Equality()
+		{
+			global::UnityEngine.Object arg0 = default(global::UnityEngine.Object);
+			global::UnityEngine.Object arg1 = default(global::UnityEngine.Object);
+			bool @operator = (arg0 == arg1);
+			global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.Object, UnityEngine.Object, bool> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.Object, UnityEngine.Object, bool>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0, arg1);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// PauseMenuFunction.op_Inequality
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void PauseMenuFunction_op_Inequality()
+		{
+			global::UnityEngine.Object arg0 = default(global::UnityEngine.Object);
+			global::UnityEngine.Object arg1 = default(global::UnityEngine.Object);
+			bool @operator = (arg0 != arg1);
+			global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.Object, UnityEngine.Object, bool> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.Object, UnityEngine.Object, bool>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0, arg1);
+			optimized.Invoke(default(object[]));
+		}
+		
 		// TMPro.TextContainer.op_Implicit
 		[global::UnityEngine.Scripting.PreserveAttribute()]
 		public static void TMPro_TextContainer_op_Implicit()
@@ -9891,27 +10007,95 @@ namespace Unity.VisualScripting.Generated.Aot
 			optimized.Invoke(default(object[]));
 		}
 		
-		// UnityEngine.Input.GetAxis
+		// string.Contains
 		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_Input_GetAxis()
+		public static void string_Contains()
+		{
+			string target = default(string);
+			string arg0 = default(string);
+			target.Contains(arg0);
+			global::Unity.VisualScripting.InstanceFunctionInvoker<string, string, bool> optimized = new global::Unity.VisualScripting.InstanceFunctionInvoker<string, string, bool>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(default(string), arg0);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.GameObject.FindGameObjectsWithTag
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_GameObject_FindGameObjectsWithTag()
 		{
 			string arg0 = default(string);
-			global::UnityEngine.Input.GetAxis(arg0);
-			global::Unity.VisualScripting.StaticFunctionInvoker<string, float> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<string, float>(default(global::System.Reflection.MethodInfo));
+			global::UnityEngine.GameObject.FindGameObjectsWithTag(arg0);
+			global::Unity.VisualScripting.StaticFunctionInvoker<string, UnityEngine.GameObject[]> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<string, UnityEngine.GameObject[]>(default(global::System.Reflection.MethodInfo));
 			optimized.Invoke(null, arg0);
 			optimized.Invoke(default(object[]));
 		}
 		
-		// UnityEngine.Transform.position
+		// UnityEngine.SceneManagement.SceneManager.GetActiveScene
 		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_Transform_position()
+		public static void UnityEngine_SceneManagement_SceneManager_GetActiveScene()
 		{
-			global::UnityEngine.Transform target = default(global::UnityEngine.Transform);
-			global::UnityEngine.Vector3 accessor = target.position;
-			target.position = default(global::UnityEngine.Vector3);
-			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Transform, UnityEngine.Vector3> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Transform, UnityEngine.Vector3>(default(global::System.Reflection.PropertyInfo));
-			optimized.GetValue(default(global::UnityEngine.Transform));
-			optimized.SetValue(default(global::UnityEngine.Transform), default(global::UnityEngine.Vector3));
+			global::UnityEngine.SceneManagement.SceneManager.GetActiveScene();
+			global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.SceneManagement.Scene> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.SceneManagement.Scene>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.SceneManagement.Scene.name
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_SceneManagement_Scene_name()
+		{
+			global::UnityEngine.SceneManagement.Scene target = default(global::UnityEngine.SceneManagement.Scene);
+			string accessor = target.name;
+			target.name = default(string);
+			global::Unity.VisualScripting.ReflectionPropertyAccessor optimized = new global::Unity.VisualScripting.ReflectionPropertyAccessor(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.SceneManagement.Scene));
+			optimized.SetValue(default(global::UnityEngine.SceneManagement.Scene), default(string));
+		}
+		
+		// UnityEngine.SceneManagement.SceneManager.LoadScene
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_SceneManagement_SceneManager_LoadScene()
+		{
+			string arg0 = default(string);
+			global::UnityEngine.SceneManagement.LoadSceneMode arg1 = default(global::UnityEngine.SceneManagement.LoadSceneMode);
+			global::UnityEngine.SceneManagement.SceneManager.LoadScene(arg0, arg1);
+			global::Unity.VisualScripting.StaticActionInvoker<string, UnityEngine.SceneManagement.LoadSceneMode> optimized = new global::Unity.VisualScripting.StaticActionInvoker<string, UnityEngine.SceneManagement.LoadSceneMode>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0, arg1);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.GameObject.Destroy
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_GameObject_Destroy()
+		{
+			global::UnityEngine.Object arg0 = default(global::UnityEngine.Object);
+			global::UnityEngine.Object.Destroy(arg0);
+			global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.Object> optimized = new global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.Object>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.Time.timeScale
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Time_timeScale()
+		{
+			float accessor = global::UnityEngine.Time.timeScale;
+			global::UnityEngine.Time.timeScale = default(float);
+			global::Unity.VisualScripting.StaticPropertyAccessor<float> optimized = new global::Unity.VisualScripting.StaticPropertyAccessor<float>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(null);
+			optimized.SetValue(null, default(float));
+		}
+		
+		// UnityEngine.UI.Image.enabled
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_UI_Image_enabled()
+		{
+			global::UnityEngine.Behaviour target = default(global::UnityEngine.Behaviour);
+			bool accessor = target.enabled;
+			target.enabled = default(bool);
+			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Behaviour, bool> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Behaviour, bool>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.Behaviour));
+			optimized.SetValue(default(global::UnityEngine.Behaviour), default(bool));
 		}
 		
 		// UnityEngine.Vector3.x
@@ -9924,35 +10108,6 @@ namespace Unity.VisualScripting.Generated.Aot
 			global::Unity.VisualScripting.ReflectionFieldAccessor optimized = new global::Unity.VisualScripting.ReflectionFieldAccessor(default(global::System.Reflection.FieldInfo));
 			optimized.GetValue(default(global::UnityEngine.Vector3));
 			optimized.SetValue(default(global::UnityEngine.Vector3), default(float));
-		}
-		
-		// UnityEngine.Vector2.normalized
-		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_Vector2_normalized()
-		{
-			global::UnityEngine.Vector2 target = default(global::UnityEngine.Vector2);
-			global::UnityEngine.Vector2 accessor = target.normalized;
-			global::Unity.VisualScripting.ReflectionPropertyAccessor optimized = new global::Unity.VisualScripting.ReflectionPropertyAccessor(default(global::System.Reflection.PropertyInfo));
-			optimized.GetValue(default(global::UnityEngine.Vector2));
-		}
-		
-		// UnityEngine.Input.mousePosition
-		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_Input_mousePosition()
-		{
-			global::UnityEngine.Vector3 accessor = global::UnityEngine.Input.mousePosition;
-			global::Unity.VisualScripting.StaticPropertyAccessor<UnityEngine.Vector3> optimized = new global::Unity.VisualScripting.StaticPropertyAccessor<UnityEngine.Vector3>(default(global::System.Reflection.PropertyInfo));
-			optimized.GetValue(null);
-		}
-		
-		// UnityEngine.Vector2.magnitude
-		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_Vector2_magnitude()
-		{
-			global::UnityEngine.Vector2 target = default(global::UnityEngine.Vector2);
-			float accessor = target.magnitude;
-			global::Unity.VisualScripting.ReflectionPropertyAccessor optimized = new global::Unity.VisualScripting.ReflectionPropertyAccessor(default(global::System.Reflection.PropertyInfo));
-			optimized.GetValue(default(global::UnityEngine.Vector2));
 		}
 		
 		// UnityEngine.Animator.SetFloat
@@ -9968,13 +10123,213 @@ namespace Unity.VisualScripting.Generated.Aot
 			optimized.Invoke(default(object[]));
 		}
 		
-		// UnityEngine.GameObject.FindGameObjectWithTag
+		// UnityEngine.Vector3.y
 		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_GameObject_FindGameObjectWithTag()
+		public static void UnityEngine_Vector3_y()
+		{
+			global::UnityEngine.Vector3 target = default(global::UnityEngine.Vector3);
+			float accessor = target.y;
+			target.y = default(float);
+			global::Unity.VisualScripting.ReflectionFieldAccessor optimized = new global::Unity.VisualScripting.ReflectionFieldAccessor(default(global::System.Reflection.FieldInfo));
+			optimized.GetValue(default(global::UnityEngine.Vector3));
+			optimized.SetValue(default(global::UnityEngine.Vector3), default(float));
+		}
+		
+		// UnityEngine.AI.NavMeshAgent.desiredVelocity
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_AI_NavMeshAgent_desiredVelocity()
+		{
+			global::UnityEngine.AI.NavMeshAgent target = default(global::UnityEngine.AI.NavMeshAgent);
+			global::UnityEngine.Vector3 accessor = target.desiredVelocity;
+			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.AI.NavMeshAgent, UnityEngine.Vector3> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.AI.NavMeshAgent, UnityEngine.Vector3>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.AI.NavMeshAgent));
+		}
+		
+		// UnityEngine.AI.NavMeshAgent.destination
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_AI_NavMeshAgent_destination()
+		{
+			global::UnityEngine.AI.NavMeshAgent target = default(global::UnityEngine.AI.NavMeshAgent);
+			global::UnityEngine.Vector3 accessor = target.destination;
+			target.destination = default(global::UnityEngine.Vector3);
+			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.AI.NavMeshAgent, UnityEngine.Vector3> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.AI.NavMeshAgent, UnityEngine.Vector3>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.AI.NavMeshAgent));
+			optimized.SetValue(default(global::UnityEngine.AI.NavMeshAgent), default(global::UnityEngine.Vector3));
+		}
+		
+		// UnityEngine.Vector3.magnitude
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Vector3_magnitude()
+		{
+			global::UnityEngine.Vector3 target = default(global::UnityEngine.Vector3);
+			float accessor = target.magnitude;
+			global::Unity.VisualScripting.ReflectionPropertyAccessor optimized = new global::Unity.VisualScripting.ReflectionPropertyAccessor(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.Vector3));
+		}
+		
+		// UnityEngine.Transform.position
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Transform_position()
+		{
+			global::UnityEngine.Transform target = default(global::UnityEngine.Transform);
+			global::UnityEngine.Vector3 accessor = target.position;
+			target.position = default(global::UnityEngine.Vector3);
+			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Transform, UnityEngine.Vector3> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Transform, UnityEngine.Vector3>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.Transform));
+			optimized.SetValue(default(global::UnityEngine.Transform), default(global::UnityEngine.Vector3));
+		}
+		
+		// UnityEngine.AI.NavMeshAgent.SetDestination
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_AI_NavMeshAgent_SetDestination()
+		{
+			global::UnityEngine.AI.NavMeshAgent target = default(global::UnityEngine.AI.NavMeshAgent);
+			global::UnityEngine.Vector3 arg0 = default(global::UnityEngine.Vector3);
+			target.SetDestination(arg0);
+			global::Unity.VisualScripting.InstanceFunctionInvoker<UnityEngine.AI.NavMeshAgent, UnityEngine.Vector3, bool> optimized = new global::Unity.VisualScripting.InstanceFunctionInvoker<UnityEngine.AI.NavMeshAgent, UnityEngine.Vector3, bool>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(default(global::UnityEngine.AI.NavMeshAgent), arg0);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.Vector2..ctor
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Vector2_ctor()
+		{
+			float arg0 = default(float);
+			float arg1 = default(float);
+			new UnityEngine.Vector2(arg0, arg1);
+		}
+		
+		// UnityEngine.Transform.localPosition
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Transform_localPosition()
+		{
+			global::UnityEngine.Transform target = default(global::UnityEngine.Transform);
+			global::UnityEngine.Vector3 accessor = target.localPosition;
+			target.localPosition = default(global::UnityEngine.Vector3);
+			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Transform, UnityEngine.Vector3> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Transform, UnityEngine.Vector3>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.Transform));
+			optimized.SetValue(default(global::UnityEngine.Transform), default(global::UnityEngine.Vector3));
+		}
+		
+		// UnityEngine.Vector2.magnitude
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Vector2_magnitude()
+		{
+			global::UnityEngine.Vector2 target = default(global::UnityEngine.Vector2);
+			float accessor = target.magnitude;
+			global::Unity.VisualScripting.ReflectionPropertyAccessor optimized = new global::Unity.VisualScripting.ReflectionPropertyAccessor(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.Vector2));
+		}
+		
+		// UnityEngine.Rigidbody2D.velocity
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Rigidbody2D_velocity()
+		{
+			global::UnityEngine.Rigidbody2D target = default(global::UnityEngine.Rigidbody2D);
+			global::UnityEngine.Vector2 accessor = target.velocity;
+			target.velocity = default(global::UnityEngine.Vector2);
+			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Rigidbody2D, UnityEngine.Vector2> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Rigidbody2D, UnityEngine.Vector2>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.Rigidbody2D));
+			optimized.SetValue(default(global::UnityEngine.Rigidbody2D), default(global::UnityEngine.Vector2));
+		}
+		
+		// UnityEngine.Vector3..ctor
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Vector3_ctor()
+		{
+			float arg0 = default(float);
+			float arg1 = default(float);
+			float arg2 = default(float);
+			new UnityEngine.Vector3(arg0, arg1, arg2);
+		}
+		
+		// UnityEngine.Vector2.normalized
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Vector2_normalized()
+		{
+			global::UnityEngine.Vector2 target = default(global::UnityEngine.Vector2);
+			global::UnityEngine.Vector2 accessor = target.normalized;
+			global::Unity.VisualScripting.ReflectionPropertyAccessor optimized = new global::Unity.VisualScripting.ReflectionPropertyAccessor(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.Vector2));
+		}
+		
+		// UnityEngine.Vector2.x
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Vector2_x()
+		{
+			global::UnityEngine.Vector2 target = default(global::UnityEngine.Vector2);
+			float accessor = target.x;
+			target.x = default(float);
+			global::Unity.VisualScripting.ReflectionFieldAccessor optimized = new global::Unity.VisualScripting.ReflectionFieldAccessor(default(global::System.Reflection.FieldInfo));
+			optimized.GetValue(default(global::UnityEngine.Vector2));
+			optimized.SetValue(default(global::UnityEngine.Vector2), default(float));
+		}
+		
+		// UnityEngine.Animator.SetTrigger
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Animator_SetTrigger()
+		{
+			global::UnityEngine.Animator target = default(global::UnityEngine.Animator);
+			string arg0 = default(string);
+			target.SetTrigger(arg0);
+			global::Unity.VisualScripting.InstanceActionInvoker<UnityEngine.Animator, string> optimized = new global::Unity.VisualScripting.InstanceActionInvoker<UnityEngine.Animator, string>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(default(global::UnityEngine.Animator), arg0);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.GameObject.layer
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_GameObject_layer()
+		{
+			global::UnityEngine.GameObject target = default(global::UnityEngine.GameObject);
+			int accessor = target.layer;
+			target.layer = default(int);
+			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.GameObject, int> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.GameObject, int>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.GameObject));
+			optimized.SetValue(default(global::UnityEngine.GameObject), default(int));
+		}
+		
+		// UnityEngine.LayerMask.NameToLayer
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_LayerMask_NameToLayer()
 		{
 			string arg0 = default(string);
-			global::UnityEngine.GameObject.FindGameObjectWithTag(arg0);
-			global::Unity.VisualScripting.StaticFunctionInvoker<string, UnityEngine.GameObject> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<string, UnityEngine.GameObject>(default(global::System.Reflection.MethodInfo));
+			global::UnityEngine.LayerMask.NameToLayer(arg0);
+			global::Unity.VisualScripting.StaticFunctionInvoker<string, int> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<string, int>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.Vector3.SmoothDamp
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Vector3_SmoothDamp()
+		{
+			global::UnityEngine.Vector3 arg0 = default(global::UnityEngine.Vector3);
+			global::UnityEngine.Vector3 arg1 = default(global::UnityEngine.Vector3);
+			global::UnityEngine.Vector3 arg2 = default(global::UnityEngine.Vector3);
+			float arg3 = default(float);
+			global::UnityEngine.Vector3.SmoothDamp(arg0, arg1, ref arg2, arg3);
+			global::Unity.VisualScripting.ReflectionInvoker optimized = new global::Unity.VisualScripting.ReflectionInvoker(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.Vector3.zero
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Vector3_zero()
+		{
+			global::UnityEngine.Vector3 accessor = global::UnityEngine.Vector3.zero;
+			global::Unity.VisualScripting.StaticPropertyAccessor<UnityEngine.Vector3> optimized = new global::Unity.VisualScripting.StaticPropertyAccessor<UnityEngine.Vector3>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(null);
+		}
+		
+		// UnityEngine.Input.GetAxis
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Input_GetAxis()
+		{
+			string arg0 = default(string);
+			global::UnityEngine.Input.GetAxis(arg0);
+			global::Unity.VisualScripting.StaticFunctionInvoker<string, float> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<string, float>(default(global::System.Reflection.MethodInfo));
 			optimized.Invoke(null, arg0);
 			optimized.Invoke(default(object[]));
 		}
@@ -9991,42 +10346,74 @@ namespace Unity.VisualScripting.Generated.Aot
 			optimized.Invoke(default(object[]));
 		}
 		
-		// UnityEngine.Vector3.y
+		// UnityEngine.Component.Destroy
 		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_Vector3_y()
+		public static void UnityEngine_Component_Destroy()
 		{
-			global::UnityEngine.Vector3 target = default(global::UnityEngine.Vector3);
-			float accessor = target.y;
-			target.y = default(float);
-			global::Unity.VisualScripting.ReflectionFieldAccessor optimized = new global::Unity.VisualScripting.ReflectionFieldAccessor(default(global::System.Reflection.FieldInfo));
-			optimized.GetValue(default(global::UnityEngine.Vector3));
-			optimized.SetValue(default(global::UnityEngine.Vector3), default(float));
+			global::UnityEngine.Object arg0 = default(global::UnityEngine.Object);
+			global::UnityEngine.Object.Destroy(arg0);
+			global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.Object> optimized = new global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.Object>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0);
+			optimized.Invoke(default(object[]));
 		}
 		
-		// UnityEngine.Rigidbody2D.velocity
+		// string.Concat
 		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_Rigidbody2D_velocity()
+		public static void string_Concat()
 		{
-			global::UnityEngine.Rigidbody2D target = default(global::UnityEngine.Rigidbody2D);
-			global::UnityEngine.Vector2 accessor = target.velocity;
-			target.velocity = default(global::UnityEngine.Vector2);
-			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Rigidbody2D, UnityEngine.Vector2> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Rigidbody2D, UnityEngine.Vector2>(default(global::System.Reflection.PropertyInfo));
-			optimized.GetValue(default(global::UnityEngine.Rigidbody2D));
-			optimized.SetValue(default(global::UnityEngine.Rigidbody2D), default(global::UnityEngine.Vector2));
+			object arg0 = default(object);
+			object arg1 = default(object);
+			string.Concat(arg0, arg1);
+			global::Unity.VisualScripting.StaticFunctionInvoker<object, object, string> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<object, object, string>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0, arg1);
+			optimized.Invoke(default(object[]));
 		}
 		
-		// UnityEngine.Vector2..ctor
+		// UnityEngine.Debug.Log
 		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_Vector2_ctor()
+		public static void UnityEngine_Debug_Log()
 		{
-			float arg0 = default(float);
-			float arg1 = default(float);
-			new UnityEngine.Vector2(arg0, arg1);
+			object arg0 = default(object);
+			global::UnityEngine.Debug.Log(arg0);
+			global::Unity.VisualScripting.StaticActionInvoker<object> optimized = new global::Unity.VisualScripting.StaticActionInvoker<object>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.GameObject.FindGameObjectWithTag
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_GameObject_FindGameObjectWithTag()
+		{
+			string arg0 = default(string);
+			global::UnityEngine.GameObject.FindGameObjectWithTag(arg0);
+			global::Unity.VisualScripting.StaticFunctionInvoker<string, UnityEngine.GameObject> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<string, UnityEngine.GameObject>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.Input.mousePosition
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Input_mousePosition()
+		{
+			global::UnityEngine.Vector3 accessor = global::UnityEngine.Input.mousePosition;
+			global::Unity.VisualScripting.StaticPropertyAccessor<UnityEngine.Vector3> optimized = new global::Unity.VisualScripting.StaticPropertyAccessor<UnityEngine.Vector3>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(null);
+		}
+		
+		// UnityEngine.GameObject.DontDestroyOnLoad
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_GameObject_DontDestroyOnLoad()
+		{
+			global::UnityEngine.Object arg0 = default(global::UnityEngine.Object);
+			global::UnityEngine.Object.DontDestroyOnLoad(arg0);
+			global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.Object> optimized = new global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.Object>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0);
+			optimized.Invoke(default(object[]));
 		}
 		
 		// UnityEngine.SceneManagement.SceneManager.LoadScene
 		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_SceneManagement_SceneManager_LoadScene()
+		public static void UnityEngine_SceneManagement_SceneManager_LoadScene_0()
 		{
 			string arg0 = default(string);
 			global::UnityEngine.SceneManagement.SceneManager.LoadScene(arg0);
@@ -10035,72 +10422,39 @@ namespace Unity.VisualScripting.Generated.Aot
 			optimized.Invoke(default(object[]));
 		}
 		
-		// UnityEngine.Mathf.Atan2
+		// UnityEngine.GameObject.CompareTag
 		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_Mathf_Atan2()
+		public static void UnityEngine_GameObject_CompareTag()
+		{
+			global::UnityEngine.GameObject target = default(global::UnityEngine.GameObject);
+			string arg0 = default(string);
+			target.CompareTag(arg0);
+			global::Unity.VisualScripting.InstanceFunctionInvoker<UnityEngine.GameObject, string, bool> optimized = new global::Unity.VisualScripting.InstanceFunctionInvoker<UnityEngine.GameObject, string, bool>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(default(global::UnityEngine.GameObject), arg0);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.SpriteRenderer.sprite
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_SpriteRenderer_sprite()
+		{
+			global::UnityEngine.SpriteRenderer target = default(global::UnityEngine.SpriteRenderer);
+			global::UnityEngine.Sprite accessor = target.sprite;
+			target.sprite = default(global::UnityEngine.Sprite);
+			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.SpriteRenderer, UnityEngine.Sprite> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.SpriteRenderer, UnityEngine.Sprite>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.SpriteRenderer));
+			optimized.SetValue(default(global::UnityEngine.SpriteRenderer), default(global::UnityEngine.Sprite));
+		}
+		
+		// UnityEngine.Random.Range
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Random_Range()
 		{
 			float arg0 = default(float);
 			float arg1 = default(float);
-			global::UnityEngine.Mathf.Atan2(arg0, arg1);
+			global::UnityEngine.Random.Range(arg0, arg1);
 			global::Unity.VisualScripting.StaticFunctionInvoker<float, float, float> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<float, float, float>(default(global::System.Reflection.MethodInfo));
 			optimized.Invoke(null, arg0, arg1);
-			optimized.Invoke(default(object[]));
-		}
-		
-		// UnityEngine.Mathf.Rad2Deg
-		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_Mathf_Rad2Deg()
-		{
-			float accessor = global::UnityEngine.Mathf.Rad2Deg;
-			global::Unity.VisualScripting.StaticFieldAccessor<float> optimized = new global::Unity.VisualScripting.StaticFieldAccessor<float>(typeof(global::UnityEngine.Mathf).GetField("Rad2Deg", System.Reflection.BindingFlags.Public | System.Reflection.BindingFlags.Static));
-			optimized.GetValue(null);
-		}
-		
-		// UnityEngine.Quaternion.Euler
-		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_Quaternion_Euler()
-		{
-			float arg0 = default(float);
-			float arg1 = default(float);
-			float arg2 = default(float);
-			global::UnityEngine.Quaternion.Euler(arg0, arg1, arg2);
-			global::Unity.VisualScripting.StaticFunctionInvoker<float, float, float, UnityEngine.Quaternion> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<float, float, float, UnityEngine.Quaternion>(default(global::System.Reflection.MethodInfo));
-			optimized.Invoke(null, arg0, arg1, arg2);
-			optimized.Invoke(default(object[]));
-		}
-		
-		// UnityEngine.Transform.rotation
-		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_Transform_rotation()
-		{
-			global::UnityEngine.Transform target = default(global::UnityEngine.Transform);
-			global::UnityEngine.Quaternion accessor = target.rotation;
-			target.rotation = default(global::UnityEngine.Quaternion);
-			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Transform, UnityEngine.Quaternion> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Transform, UnityEngine.Quaternion>(default(global::System.Reflection.PropertyInfo));
-			optimized.GetValue(default(global::UnityEngine.Transform));
-			optimized.SetValue(default(global::UnityEngine.Transform), default(global::UnityEngine.Quaternion));
-		}
-		
-		// UnityEngine.Transform.localScale
-		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_Transform_localScale()
-		{
-			global::UnityEngine.Transform target = default(global::UnityEngine.Transform);
-			global::UnityEngine.Vector3 accessor = target.localScale;
-			target.localScale = default(global::UnityEngine.Vector3);
-			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Transform, UnityEngine.Vector3> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Transform, UnityEngine.Vector3>(default(global::System.Reflection.PropertyInfo));
-			optimized.GetValue(default(global::UnityEngine.Transform));
-			optimized.SetValue(default(global::UnityEngine.Transform), default(global::UnityEngine.Vector3));
-		}
-		
-		// UnityEngine.GameObject.FindWithTag
-		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_GameObject_FindWithTag()
-		{
-			string arg0 = default(string);
-			global::UnityEngine.GameObject.FindWithTag(arg0);
-			global::Unity.VisualScripting.StaticFunctionInvoker<string, UnityEngine.GameObject> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<string, UnityEngine.GameObject>(default(global::System.Reflection.MethodInfo));
-			optimized.Invoke(null, arg0);
 			optimized.Invoke(default(object[]));
 		}
 		
@@ -10117,9 +10471,307 @@ namespace Unity.VisualScripting.Generated.Aot
 			optimized.Invoke(default(object[]));
 		}
 		
+		// UnityEngine.Physics2D.CircleCast
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Physics2D_CircleCast()
+		{
+			global::UnityEngine.Vector2 arg0 = default(global::UnityEngine.Vector2);
+			float arg1 = default(float);
+			global::UnityEngine.Vector2 arg2 = default(global::UnityEngine.Vector2);
+			float arg3 = default(float);
+			int arg4 = default(int);
+			global::UnityEngine.Physics2D.CircleCast(arg0, arg1, arg2, arg3, arg4);
+			global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.Vector2, float, UnityEngine.Vector2, float, int, UnityEngine.RaycastHit2D> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.Vector2, float, UnityEngine.Vector2, float, int, UnityEngine.RaycastHit2D>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0, arg1, arg2, arg3, arg4);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.Vector3..ctor
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Vector3_ctor_0()
+		{
+			float arg0 = default(float);
+			float arg1 = default(float);
+			new UnityEngine.Vector3(arg0, arg1);
+		}
+		
+		// UnityEngine.RaycastHit2D.centroid
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_RaycastHit2D_centroid()
+		{
+			global::UnityEngine.RaycastHit2D target = default(global::UnityEngine.RaycastHit2D);
+			global::UnityEngine.Vector2 accessor = target.centroid;
+			target.centroid = default(global::UnityEngine.Vector2);
+			global::Unity.VisualScripting.ReflectionPropertyAccessor optimized = new global::Unity.VisualScripting.ReflectionPropertyAccessor(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.RaycastHit2D));
+			optimized.SetValue(default(global::UnityEngine.RaycastHit2D), default(global::UnityEngine.Vector2));
+		}
+		
+		// UnityEngine.RaycastHit2D.point
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_RaycastHit2D_point()
+		{
+			global::UnityEngine.RaycastHit2D target = default(global::UnityEngine.RaycastHit2D);
+			global::UnityEngine.Vector2 accessor = target.point;
+			target.point = default(global::UnityEngine.Vector2);
+			global::Unity.VisualScripting.ReflectionPropertyAccessor optimized = new global::Unity.VisualScripting.ReflectionPropertyAccessor(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.RaycastHit2D));
+			optimized.SetValue(default(global::UnityEngine.RaycastHit2D), default(global::UnityEngine.Vector2));
+		}
+		
+		// UnityEngine.RaycastHit2D.normal
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_RaycastHit2D_normal()
+		{
+			global::UnityEngine.RaycastHit2D target = default(global::UnityEngine.RaycastHit2D);
+			global::UnityEngine.Vector2 accessor = target.normal;
+			target.normal = default(global::UnityEngine.Vector2);
+			global::Unity.VisualScripting.ReflectionPropertyAccessor optimized = new global::Unity.VisualScripting.ReflectionPropertyAccessor(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.RaycastHit2D));
+			optimized.SetValue(default(global::UnityEngine.RaycastHit2D), default(global::UnityEngine.Vector2));
+		}
+		
+		// UnityEngine.RaycastHit2D.distance
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_RaycastHit2D_distance()
+		{
+			global::UnityEngine.RaycastHit2D target = default(global::UnityEngine.RaycastHit2D);
+			float accessor = target.distance;
+			target.distance = default(float);
+			global::Unity.VisualScripting.ReflectionPropertyAccessor optimized = new global::Unity.VisualScripting.ReflectionPropertyAccessor(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.RaycastHit2D));
+			optimized.SetValue(default(global::UnityEngine.RaycastHit2D), default(float));
+		}
+		
+		// UnityEngine.RaycastHit2D.fraction
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_RaycastHit2D_fraction()
+		{
+			global::UnityEngine.RaycastHit2D target = default(global::UnityEngine.RaycastHit2D);
+			float accessor = target.fraction;
+			target.fraction = default(float);
+			global::Unity.VisualScripting.ReflectionPropertyAccessor optimized = new global::Unity.VisualScripting.ReflectionPropertyAccessor(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.RaycastHit2D));
+			optimized.SetValue(default(global::UnityEngine.RaycastHit2D), default(float));
+		}
+		
+		// UnityEngine.RaycastHit2D.collider
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_RaycastHit2D_collider()
+		{
+			global::UnityEngine.RaycastHit2D target = default(global::UnityEngine.RaycastHit2D);
+			global::UnityEngine.Collider2D accessor = target.collider;
+			global::Unity.VisualScripting.ReflectionPropertyAccessor optimized = new global::Unity.VisualScripting.ReflectionPropertyAccessor(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.RaycastHit2D));
+		}
+		
+		// UnityEngine.RaycastHit2D.rigidbody
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_RaycastHit2D_rigidbody()
+		{
+			global::UnityEngine.RaycastHit2D target = default(global::UnityEngine.RaycastHit2D);
+			global::UnityEngine.Rigidbody2D accessor = target.rigidbody;
+			global::Unity.VisualScripting.ReflectionPropertyAccessor optimized = new global::Unity.VisualScripting.ReflectionPropertyAccessor(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.RaycastHit2D));
+		}
+		
+		// UnityEngine.RaycastHit2D.transform
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_RaycastHit2D_transform()
+		{
+			global::UnityEngine.RaycastHit2D target = default(global::UnityEngine.RaycastHit2D);
+			global::UnityEngine.Transform accessor = target.transform;
+			global::Unity.VisualScripting.ReflectionPropertyAccessor optimized = new global::Unity.VisualScripting.ReflectionPropertyAccessor(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.RaycastHit2D));
+		}
+		
+		// UnityEngine.Debug.DrawLine
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Debug_DrawLine()
+		{
+			global::UnityEngine.Vector3 arg0 = default(global::UnityEngine.Vector3);
+			global::UnityEngine.Vector3 arg1 = default(global::UnityEngine.Vector3);
+			global::UnityEngine.Color arg2 = default(global::UnityEngine.Color);
+			float arg3 = default(float);
+			global::UnityEngine.Debug.DrawLine(arg0, arg1, arg2, arg3);
+			global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.Vector3, UnityEngine.Vector3, UnityEngine.Color, float> optimized = new global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.Vector3, UnityEngine.Vector3, UnityEngine.Color, float>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0, arg1, arg2, arg3);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.Mathf.Infinity
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Mathf_Infinity()
+		{
+			float accessor = global::UnityEngine.Mathf.Infinity;
+			global::Unity.VisualScripting.StaticFieldAccessor<float> optimized = new global::Unity.VisualScripting.StaticFieldAccessor<float>(typeof(global::UnityEngine.Mathf).GetField("Infinity", System.Reflection.BindingFlags.Public | System.Reflection.BindingFlags.Static));
+			optimized.GetValue(null);
+		}
+		
+		// UnityEngine.Vector2.y
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Vector2_y()
+		{
+			global::UnityEngine.Vector2 target = default(global::UnityEngine.Vector2);
+			float accessor = target.y;
+			target.y = default(float);
+			global::Unity.VisualScripting.ReflectionFieldAccessor optimized = new global::Unity.VisualScripting.ReflectionFieldAccessor(default(global::System.Reflection.FieldInfo));
+			optimized.GetValue(default(global::UnityEngine.Vector2));
+			optimized.SetValue(default(global::UnityEngine.Vector2), default(float));
+		}
+		
+		// UnityEngine.Collider2D.gameObject
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Collider2D_gameObject()
+		{
+			global::UnityEngine.Component target = default(global::UnityEngine.Component);
+			global::UnityEngine.GameObject accessor = target.gameObject;
+			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Component, UnityEngine.GameObject> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Component, UnityEngine.GameObject>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.Component));
+		}
+		
+		// UnityEngine.Component.tag
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Component_tag()
+		{
+			global::UnityEngine.Component target = default(global::UnityEngine.Component);
+			string accessor = target.tag;
+			target.tag = default(string);
+			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Component, string> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Component, string>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.Component));
+			optimized.SetValue(default(global::UnityEngine.Component), default(string));
+		}
+		
+		// UnityEngine.BoxCollider2D.enabled
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_BoxCollider2D_enabled()
+		{
+			global::UnityEngine.Behaviour target = default(global::UnityEngine.Behaviour);
+			bool accessor = target.enabled;
+			target.enabled = default(bool);
+			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Behaviour, bool> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Behaviour, bool>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.Behaviour));
+			optimized.SetValue(default(global::UnityEngine.Behaviour), default(bool));
+		}
+		
+		// UnityEngine.Vector3.Magnitude
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Vector3_Magnitude()
+		{
+			global::UnityEngine.Vector3 arg0 = default(global::UnityEngine.Vector3);
+			global::UnityEngine.Vector3.Magnitude(arg0);
+			global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.Vector3, float> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.Vector3, float>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.Component.Instantiate
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Component_Instantiate()
+		{
+			global::UnityEngine.Object arg0 = default(global::UnityEngine.Object);
+			global::UnityEngine.Vector3 arg1 = default(global::UnityEngine.Vector3);
+			global::UnityEngine.Quaternion arg2 = default(global::UnityEngine.Quaternion);
+			global::UnityEngine.Object.Instantiate(arg0, arg1, arg2);
+			global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.Object, UnityEngine.Vector3, UnityEngine.Quaternion, UnityEngine.Object> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.Object, UnityEngine.Vector3, UnityEngine.Quaternion, UnityEngine.Object>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0, arg1, arg2);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.Component.GetComponent
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Component_GetComponent()
+		{
+			global::UnityEngine.Component target = default(global::UnityEngine.Component);
+			global::System.Type arg0 = default(global::System.Type);
+			target.GetComponent(arg0);
+			global::Unity.VisualScripting.InstanceFunctionInvoker<UnityEngine.Component, System.Type, UnityEngine.Component> optimized = new global::Unity.VisualScripting.InstanceFunctionInvoker<UnityEngine.Component, System.Type, UnityEngine.Component>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(default(global::UnityEngine.Component), arg0);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.Physics2D.IgnoreCollision
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Physics2D_IgnoreCollision()
+		{
+			global::UnityEngine.Collider2D arg0 = default(global::UnityEngine.Collider2D);
+			global::UnityEngine.Collider2D arg1 = default(global::UnityEngine.Collider2D);
+			global::UnityEngine.Physics2D.IgnoreCollision(arg0, arg1);
+			global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.Collider2D, UnityEngine.Collider2D> optimized = new global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.Collider2D, UnityEngine.Collider2D>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0, arg1);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.Mathf.Rad2Deg
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Mathf_Rad2Deg()
+		{
+			float accessor = global::UnityEngine.Mathf.Rad2Deg;
+			global::Unity.VisualScripting.StaticFieldAccessor<float> optimized = new global::Unity.VisualScripting.StaticFieldAccessor<float>(typeof(global::UnityEngine.Mathf).GetField("Rad2Deg", System.Reflection.BindingFlags.Public | System.Reflection.BindingFlags.Static));
+			optimized.GetValue(null);
+		}
+		
+		// UnityEngine.Transform.rotation
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Transform_rotation()
+		{
+			global::UnityEngine.Transform target = default(global::UnityEngine.Transform);
+			global::UnityEngine.Quaternion accessor = target.rotation;
+			target.rotation = default(global::UnityEngine.Quaternion);
+			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Transform, UnityEngine.Quaternion> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Transform, UnityEngine.Quaternion>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.Transform));
+			optimized.SetValue(default(global::UnityEngine.Transform), default(global::UnityEngine.Quaternion));
+		}
+		
+		// UnityEngine.Mathf.Atan2
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Mathf_Atan2()
+		{
+			float arg0 = default(float);
+			float arg1 = default(float);
+			global::UnityEngine.Mathf.Atan2(arg0, arg1);
+			global::Unity.VisualScripting.StaticFunctionInvoker<float, float, float> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<float, float, float>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0, arg1);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.Quaternion.Euler
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Quaternion_Euler()
+		{
+			float arg0 = default(float);
+			float arg1 = default(float);
+			float arg2 = default(float);
+			global::UnityEngine.Quaternion.Euler(arg0, arg1, arg2);
+			global::Unity.VisualScripting.StaticFunctionInvoker<float, float, float, UnityEngine.Quaternion> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<float, float, float, UnityEngine.Quaternion>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0, arg1, arg2);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.Vector3.one
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Vector3_one()
+		{
+			global::UnityEngine.Vector3 accessor = global::UnityEngine.Vector3.one;
+			global::Unity.VisualScripting.StaticPropertyAccessor<UnityEngine.Vector3> optimized = new global::Unity.VisualScripting.StaticPropertyAccessor<UnityEngine.Vector3>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(null);
+		}
+		
+		// UnityEngine.Transform.localScale
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Transform_localScale()
+		{
+			global::UnityEngine.Transform target = default(global::UnityEngine.Transform);
+			global::UnityEngine.Vector3 accessor = target.localScale;
+			target.localScale = default(global::UnityEngine.Vector3);
+			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Transform, UnityEngine.Vector3> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.Transform, UnityEngine.Vector3>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.Transform));
+			optimized.SetValue(default(global::UnityEngine.Transform), default(global::UnityEngine.Vector3));
+		}
+		
 		// UnityEngine.GameObject.Destroy
 		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_GameObject_Destroy()
+		public static void UnityEngine_GameObject_Destroy_0()
 		{
 			global::UnityEngine.Object arg0 = default(global::UnityEngine.Object);
 			float arg1 = default(float);
@@ -10127,6 +10779,154 @@ namespace Unity.VisualScripting.Generated.Aot
 			global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.Object, float> optimized = new global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.Object, float>(default(global::System.Reflection.MethodInfo));
 			optimized.Invoke(null, arg0, arg1);
 			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.Random.Range
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Random_Range_0()
+		{
+			int arg0 = default(int);
+			int arg1 = default(int);
+			global::UnityEngine.Random.Range(arg0, arg1);
+			global::Unity.VisualScripting.StaticFunctionInvoker<int, int, int> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<int, int, int>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0, arg1);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.AI.NavMeshAgent.updateRotation
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_AI_NavMeshAgent_updateRotation()
+		{
+			global::UnityEngine.AI.NavMeshAgent target = default(global::UnityEngine.AI.NavMeshAgent);
+			bool accessor = target.updateRotation;
+			target.updateRotation = default(bool);
+			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.AI.NavMeshAgent, bool> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.AI.NavMeshAgent, bool>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.AI.NavMeshAgent));
+			optimized.SetValue(default(global::UnityEngine.AI.NavMeshAgent), default(bool));
+		}
+		
+		// UnityEngine.AI.NavMeshAgent.updateUpAxis
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_AI_NavMeshAgent_updateUpAxis()
+		{
+			global::UnityEngine.AI.NavMeshAgent target = default(global::UnityEngine.AI.NavMeshAgent);
+			bool accessor = target.updateUpAxis;
+			target.updateUpAxis = default(bool);
+			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.AI.NavMeshAgent, bool> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.AI.NavMeshAgent, bool>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.AI.NavMeshAgent));
+			optimized.SetValue(default(global::UnityEngine.AI.NavMeshAgent), default(bool));
+		}
+		
+		// UnityEngine.Component.Destroy
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Component_Destroy_0()
+		{
+			global::UnityEngine.Object arg0 = default(global::UnityEngine.Object);
+			float arg1 = default(float);
+			global::UnityEngine.Object.Destroy(arg0, arg1);
+			global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.Object, float> optimized = new global::Unity.VisualScripting.StaticActionInvoker<UnityEngine.Object, float>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0, arg1);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.Animator.SetBool
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Animator_SetBool()
+		{
+			global::UnityEngine.Animator target = default(global::UnityEngine.Animator);
+			string arg0 = default(string);
+			bool arg1 = default(bool);
+			target.SetBool(arg0, arg1);
+			global::Unity.VisualScripting.InstanceActionInvoker<UnityEngine.Animator, string, bool> optimized = new global::Unity.VisualScripting.InstanceActionInvoker<UnityEngine.Animator, string, bool>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(default(global::UnityEngine.Animator), arg0, arg1);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.AnimatorStateInfo.IsName
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_AnimatorStateInfo_IsName()
+		{
+			global::UnityEngine.AnimatorStateInfo target = default(global::UnityEngine.AnimatorStateInfo);
+			string arg0 = default(string);
+			target.IsName(arg0);
+			global::Unity.VisualScripting.ReflectionInvoker optimized = new global::Unity.VisualScripting.ReflectionInvoker(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(default(global::UnityEngine.AnimatorStateInfo), arg0);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.Animator.GetCurrentAnimatorStateInfo
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_Animator_GetCurrentAnimatorStateInfo()
+		{
+			global::UnityEngine.Animator target = default(global::UnityEngine.Animator);
+			int arg0 = default(int);
+			target.GetCurrentAnimatorStateInfo(arg0);
+			global::Unity.VisualScripting.InstanceFunctionInvoker<UnityEngine.Animator, int, UnityEngine.AnimatorStateInfo> optimized = new global::Unity.VisualScripting.InstanceFunctionInvoker<UnityEngine.Animator, int, UnityEngine.AnimatorStateInfo>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(default(global::UnityEngine.Animator), arg0);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.GameObject.FindWithTag
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_GameObject_FindWithTag()
+		{
+			string arg0 = default(string);
+			global::UnityEngine.GameObject.FindWithTag(arg0);
+			global::Unity.VisualScripting.StaticFunctionInvoker<string, UnityEngine.GameObject> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<string, UnityEngine.GameObject>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.GameObject..ctor
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_GameObject_ctor()
+		{
+			new UnityEngine.GameObject();
+		}
+		
+		// UnityEngine.SceneManagement.SceneManager.UnloadSceneAsync
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_SceneManagement_SceneManager_UnloadSceneAsync()
+		{
+			string arg0 = default(string);
+			global::UnityEngine.SceneManagement.SceneManager.UnloadSceneAsync(arg0);
+			global::Unity.VisualScripting.StaticFunctionInvoker<string, UnityEngine.AsyncOperation> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<string, UnityEngine.AsyncOperation>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(null, arg0);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.GameObject.transform
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_GameObject_transform()
+		{
+			global::UnityEngine.GameObject target = default(global::UnityEngine.GameObject);
+			global::UnityEngine.Transform accessor = target.transform;
+			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.GameObject, UnityEngine.Transform> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.GameObject, UnityEngine.Transform>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.GameObject));
+		}
+		
+		// UnityEngine.GameObject.SetActive
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_GameObject_SetActive()
+		{
+			global::UnityEngine.GameObject target = default(global::UnityEngine.GameObject);
+			bool arg0 = default(bool);
+			target.SetActive(arg0);
+			global::Unity.VisualScripting.InstanceActionInvoker<UnityEngine.GameObject, bool> optimized = new global::Unity.VisualScripting.InstanceActionInvoker<UnityEngine.GameObject, bool>(default(global::System.Reflection.MethodInfo));
+			optimized.Invoke(default(global::UnityEngine.GameObject), arg0);
+			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.UI.Image.sprite
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_UI_Image_sprite()
+		{
+			global::UnityEngine.UI.Image target = default(global::UnityEngine.UI.Image);
+			global::UnityEngine.Sprite accessor = target.sprite;
+			target.sprite = default(global::UnityEngine.Sprite);
+			global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.UI.Image, UnityEngine.Sprite> optimized = new global::Unity.VisualScripting.InstancePropertyAccessor<UnityEngine.UI.Image, UnityEngine.Sprite>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.UI.Image));
+			optimized.SetValue(default(global::UnityEngine.UI.Image), default(global::UnityEngine.Sprite));
 		}
 	}
 }
